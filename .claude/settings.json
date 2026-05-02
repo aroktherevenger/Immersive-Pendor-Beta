@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "pendor-ini": {
+      "command": "python",
+      "args": ["C:\\Users\\arosh\\Pendor Modding\\tools\\mcp_server\\server.py"],
+      "cwd": "C:\\Users\\arosh\\Pendor Modding\\tools\\mcp_server"
+    }
+  }
+}
