@@ -1,0 +1,30 @@
+# Compiled output (copy these into your PoP install, don't track them)
+output/
+*.pyc
+__pycache__/
+
+# Module system build artifacts
+process_*.py
+*.bak
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Warband save files (never commit these)
+*.sav
+*.sg
+
+# Large binary assets (textures, sounds — track separately if needed)
+*.dds
+*.tga
+*.ogg
+*.wav
+*.mp3
