@@ -108,6 +108,17 @@ Loot divisor halved (twice as much loot drops per battle):
 
 ---
 
+## Tweak 16a — Companions cannot leave party
+**Files:** `conversation.txt`, `triggers.txt`, `simple_triggers.txt`
+**Status:** ✅ Applied
+
+- `conversation.txt`: removed condition from `member_separate_confirm` (condition count 1→0)
+- `conversation.txt`: added always-fail condition `31 2 1 0` to `companion_quitting` (count 0→1)
+- `triggers.txt`: `2133 2 144115188075855884 1224979098644774918` → `...855884 0` (companion stored as nobody)
+- `simple_triggers.txt`: counter 101→102; inserted `31 2 1 0` before `110 1 144115188075855884`
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
