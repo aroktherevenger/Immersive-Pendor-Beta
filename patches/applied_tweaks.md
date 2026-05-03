@@ -295,6 +295,70 @@ Up to 4 of your top companions follow you into town/village/castle scenes. Numbe
 
 ---
 
+## Tweak 15g — Take equipment from captured lords
+**File:** `conversation.txt`
+**Status:** ✅ Applied
+
+Added new dialogue option `dlga_prisoner_chat_noble2:close_window.4` to undress captured non-king lords. Cost: -25 relation, -1 honor. Lord auto-released after. Counter 4159→4160.
+
+---
+
+## Tweak 16n — Hire unique spawn leaders as companions when captured
+**Files:** `dialog_states.txt`, `conversation.txt`, `scripts.txt`
+**Status:** ✅ Applied
+
+Adds a "How about you join my company?" option when talking to captured unique spawn leaders.
+- `dialog_states.txt`: added `prisoner_chat_join` (state ID 1878)
+- `conversation.txt`: counter 4160→4163; 3 new dialogue lines after `dlga_prisoner_chat_sig3:close_window.1`
+- `scripts.txt`: `party_remove_all_companions` op counter 67→68 (added unique spawn protection); replaced body of `encounter_calculate_fit` (counter 86→83) to allow capturing unique spawns when Noldor lords are involved
+
+---
+
+## Tweak 21m — Fix ambient sounds persisting after leaving taverns/arenas
+**Files:** `variables.txt`, `mission_templates.txt`
+**Status:** ✅ Applied
+
+- `variables.txt`: added `ambiance_channel` (line 1450, ID `144115188075857321`)
+- `mission_templates.txt mst_town_default`: counter 19→16; deleted 3 stale sound triggers; replaced -19/-21 triggers with channel-aware versions
+- `mission_templates.txt mst_arena_melee_fight`: replaced 0.2/-30/-29 triggers with channel-aware versions
+
+---
+
+## Tweak 12g — Increase merchant wealth based on prosperity
+**File:** `simple_triggers.txt`
+**Status:** ✅ Applied (approach 2)
+
+Counter 134→135. Added new 24h trigger that scales merchant wealth based on town prosperity:
+- Max wealth at 300 prosperity = 12000 denars (weapons/armor/horse merchants), 16000 (goods merchants)
+- Builds up over 3 days
+
+---
+
+## Tweak 17a — Drastically reduce food consumption
+**File:** `simple_triggers.txt`
+**Status:** ✅ Applied
+
+Food consumption interval `14h` → `168h` (every 7 days instead of every 14 hours). 12× slower consumption — effectively no more food grind.
+
+---
+
+## Tweak 15d — Lords never escape from captivity
+**File:** `simple_triggers.txt`
+**Status:** ✅ Applied
+
+- Player party escape chance: `(400 - 20×PrisonerMgmt)/10` → `0`
+- Garrison escape chance: `(200 - 10×StewardPrisonerMgmt)/10` → `0`
+Imprisoned lords never escape, regardless of skill.
+
+---
+
+## Tweak 8d — Whistle for nearest horse
+**Status:** ⏸️ Pending (requires external `horse_whistle.ogg` sound file)
+
+The tweak data is straightforward but it depends on a custom sound file from a Google Drive link that needs to be manually downloaded to the PoP `Sounds/` folder before the tweak can be applied. Skipped until the asset is available.
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
