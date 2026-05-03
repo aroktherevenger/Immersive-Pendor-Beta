@@ -225,16 +225,31 @@ In `dlga_start:hall_order_guard_talk`: replaced rank-up logic so each rank rewar
 
 ---
 
-## Tweak 2t — Sergeants get half stats from default training too
+## Tweak 2t — Sergeants get half stats from default training
+**Status:** ⚠️ Reverted (replaced by 2u)
+
+---
+
+## Tweak 2u — KO upgrade system overhaul (Leonion)
 **File:** `conversation.txt`
 **Status:** ✅ Applied
 
-In `dlga_pop2_war_room_menu:pop2_war_room_improve_troops` and the two response/done dialogues:
-- Replaced the "Honor Troops" wording with separate Knights/Sergeants gains text
-- Sergeants now also gain stats per training: +1 STR, +1 AGI, +10 weapon profs (half of knights' +2/+2/+20)
-- Dialogue option counter: 3→4 / 9→10
-- Done counter: 27→42 (added sergeant training block)
-- Menu now shows order name (`s1`) instead of knight name
+Comprehensive rewrite of the KO/CKO war-room training system:
+- **Cap:** Max 10 upgrade levels per order
+- **Cost:** Scales by ×5/4 each level. Base 30 prestige + 50,000 denars at L1, ~213 prestige + 372k denars at L10. Total ~1.66M denars for full progression
+- **Per-level bonuses:** Knights +1 STR/AGI/+10 WP; Sergeants +5 WP
+- **Tier perks at specific levels:**
+  - L1: Sg +10 WP
+  - L2: Sg +1 STR/AGI
+  - L3: Sg/Kn +1 Ironflesh
+  - L4: Sg +1 STR/AGI
+  - L5: Sg/Kn +10 WP
+  - L6: Sg +1 PS/PT/PD
+  - L7: Sg +1 STR/AGI/IF; Kn +1 IF
+  - L8: Kn +1 PS/PT/PD/+10 WP
+  - L9: Sg +1 STR/AGI/+10 WP
+  - L10: Kn/Sg +1 PS/PT/PD
+- Three dialogue lines fully replaced; menu now shows order name; done dialogue routes back to war room menu (so you can keep upgrading)
 
 ---
 
