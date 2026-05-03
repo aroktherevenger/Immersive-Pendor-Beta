@@ -22,7 +22,24 @@
       "WebFetch(domain:web.archive.org)",
       "Bash(curl -s \"https://pop3.fandom.com/api.php?action=parse&page=Template:Tweaks_10&prop=wikitext&format=json\")",
       "Bash(git merge *)",
-      "Bash(git stash *)"
+      "Bash(git stash *)",
+      "Bash(curl -s \"https://pop3.fandom.com/api.php?action=parse&page=Template:Tweaks_2&prop=wikitext&format=json\")",
+      "Bash(python -c \"import sys, json; data = json.load\\(sys.stdin\\); text = data['parse']['wikitext']['*']; idx = text.find\\('Tweak_2_q'\\); print\\(text[idx:idx+8000] if idx >= 0 else 'NOT FOUND'\\)\")",
+      "Bash(python -c \"import sys, json; data = json.load\\(sys.stdin\\); text = data['parse']['wikitext']['*']; idx = text.find\\('{{anchor|Tweak_2_q}}'\\); end = text.find\\('{{anchor|Tweak_2_r}}'\\); print\\(text[idx:end] if idx >= 0 and end >= 0 else 'NOT FOUND'\\)\")",
+      "Bash(python -c \"import sys, json; data = json.load\\(sys.stdin\\); text = data['parse']['wikitext']['*']; idx = text.find\\('{{anchor|Tweak_2_t}}'\\); end = text.find\\('{{anchor|Tweak_2_u}}'\\); print\\(text[idx:end] if idx >= 0 and end >= 0 else 'NOT FOUND'\\)\")",
+      "Bash(python -c \"import sys, json; data = json.load\\(sys.stdin\\); text = data['parse']['wikitext']['*']; idx = text.find\\('{{anchor|Tweak_2_u}}'\\); print\\(text[idx:idx+8000] if idx >= 0 else 'NOT FOUND'\\)\")",
+      "Bash(python -c \"import sys, json; data = json.load\\(sys.stdin\\); text = data['parse']['wikitext']['*']; idx = text.find\\('dlga_pop2_war_room_improve_troops_response:pop2_war_room_menu'\\); end = text.find\\('NO_VOICEOVER', idx\\) + len\\('NO_VOICEOVER'\\); print\\(text[idx:end]\\)\")",
+      "Bash(curl -s \"https://pop3.fandom.com/api.php?action=parse&page=Template:Tweaks_5&prop=wikitext&format=json\")",
+      "Bash(python -c 'import sys, json; data = json.load\\(sys.stdin\\); text = data['\\\\''parse'\\\\'']['\\\\''wikitext'\\\\'']['\\\\''*'\\\\'']; *)",
+      "Bash(curl -s \"https://pop3.fandom.com/api.php?action=parse&page=Template:Tweaks_14&prop=wikitext&format=json\")",
+      "Bash(python -c \"import sys, json; data = json.load\\(sys.stdin\\); text = data['parse']['wikitext']['*']; idx = text.find\\('{{anchor|Tweak_14_c}}'\\); end = text.find\\('{{anchor|Tweak_14_d}}'\\); print\\(text[idx:end] if idx >= 0 and end >= 0 else 'NOT FOUND'\\)\")",
+      "Bash(python -c ' *)",
+      "Bash(curl -s \"https://pop3.fandom.com/api.php?action=parse&page=Template:Tweaks_17&prop=wikitext&format=json\")",
+      "Bash(curl -s \"https://pop3.fandom.com/api.php?action=parse&page=Template:Tweaks_16&prop=wikitext&format=json\")",
+      "Bash(curl -s \"https://pop3.fandom.com/api.php?action=parse&page=Template:Tweaks_15&prop=wikitext&format=json\")",
+      "Bash(curl -s \"https://pop3.fandom.com/api.php?action=parse&page=Template:Tweaks_8&prop=wikitext&format=json\")",
+      "Bash(curl -s \"https://pop3.fandom.com/api.php?action=parse&page=Template:Tweaks_21&prop=wikitext&format=json\")",
+      "Bash(curl -s \"https://pop3.fandom.com/api.php?action=parse&page=Template:Tweaks_12&prop=wikitext&format=json\")"
     ]
   }
 }

@@ -364,6 +364,32 @@ Press **H** in field battles or village bandit fights to whistle for the nearest
 
 ---
 
+## Tweak 16p — Restore equipment of mid/high-tier companions
+**Files:** `troops.txt`, `conversation.txt`
+**Status:** ✅ Applied (requires new game for full effect)
+
+Companions costing 3000+ denars to hire get top-tier gear and locked inventories until certain levels:
+
+**Equipment overhauls in `troops.txt`:**
+- **Lethaldiran [30]**: Noldor Runesword, Noble Shield, Composite Bow, Arrows, Captain Helm with Hood, Trimmed Ranger Garb, Enchanted Boots, Ornate Gloves, Grey Warhorse
+- **Sir Jocelyn [25]**: Ebony Knight Sword, Black & White Heater Shield, Siege Crossbow + Bolts, Dark Knight Helm, Pendor Ornate Plate, Empire Shynbaulds, Supreme Steel Gauntlets, Ironbred Charger
+- **Sir Alistair [25]**: Ebony Noble Sword, Order of Eventide Kite Shield, Long Dark Knight Lance, Black Helm with Feathers, Eventide Plate, Ebony Greaves, Black Steel Gauntlets, Black Leather Draped Warhorse
+- **Sir Rayne [20]**: Silvered Longsword, Order of the Falcon Kite Shield, Long Blue Knight Lance, Silvermist Helm with Mail, Falcon Plate, Silver & Gold Greaves, Silver Gauntlets, Falcon Steed
+- **Frederick [25]**: Zweihander, Royal Hounskull Bascinet (Open), Forlorn Hope Heavy Plate, Empire Shynbaulds, Mettenheim Steel Mittens
+- **Ediz [15]**: Singalian Noble Sabre, Embossed Round Shield, Short Composite Bow, Bodkin Arrows, Jatu Cavalry Helmet, Singalian Black Studded Leather, Splinted Greaves, Dark Leather Gloves, Leather Draped Horse. Stats: level 9→10, riding/shield boosted, 1h profs 140→150
+- **Donavan [15]**: Barclay Noble Sword, Great Lance, Arquebus, Heater Shield (Twin Eagles), Barclay Pot Helmet, Cuir Bouilli, Mail Boots, Mail Mittens, War Horse. Riding 3→4
+- **Diev [20]**: Ravenstern Great Sword, Long Composite Bow, Ranger Arrows, Kierguard Helm, Ravenstern Kierguard Plate, Polished Steel Boots, Hourglass Gauntlets. 1h 220→200, 2h 200→220
+- **Sir Roland [30]**: Ebony Arming Sword, Long Dawn Knight Lance, Order of the Dawn Heater Shield, Silver Helmet (Open), Silver Ornate Plated Armor with Cape, Silver & Gold Greaves, Supreme Silver Gauntlets, White Draped Warhorse
+- **Sigismund [25]**: Pendor Great Sword, Siege Crossbow, Siege Bolts, Open Unicorn Helm, Ebony Platemail, Black Greaves, Ebony Gauntlets
+- **Boadice [30]**: Rune Bastard Sword, Long Blue Knight Lance, Ancient Engraved Shield, Jarids, Veccavian Open Helm with Tail, Unicorn Plate, Silver & Gold Greaves, Supreme Silver Gauntlets, Unicorn Steed
+
+**Inventory locks in `conversation.txt`:**
+- `dlga_member_trade:do_member_trade`: 2 lines → 12 lines (each companion blocked until their stage level [15/20/25/30])
+- `dlga_member_automanage_report:member_talk`: 1 line → 11 lines
+- Counter 4163→4183 (+20)
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
