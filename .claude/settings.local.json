@@ -12,7 +12,14 @@
       "Bash(python scripts/package_skill.py skills/pendor-sync)",
       "Bash(python scripts/package_skill.py ../pendor-sync)",
       "Read(//c/Users/arosh/AppData/Local/Packages/Claude_pzs8sxrjxfjjc/LocalCache/Roaming/Claude/local-agent-mode-sessions/skills-plugin/29e47829-28bf-4595-966c-085318b84043/fdd39374-77a2-403a-a846-ca72169ca531/skills/skill-creator/**)",
-      "Bash(python -m scripts.package_skill ../pendor-sync)"
+      "Bash(python -m scripts.package_skill ../pendor-sync)",
+      "Bash(git checkout *)",
+      "WebFetch(domain:pop3.fandom.com)",
+      "WebFetch(domain:webcache.googleusercontent.com)",
+      "Skill(update-config)",
+      "Skill(update-config:*)",
+      "Bash(pip install *)",
+      "WebFetch(domain:web.archive.org)"
     ]
   }
 }
