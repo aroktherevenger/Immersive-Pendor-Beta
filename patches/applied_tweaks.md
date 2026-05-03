@@ -75,3 +75,14 @@ Capture threshold lowered from `60` to `40` (roll + prisoner_management×5 >= 40
 - `scripts.txt`: `2133 2 144115188075857049 74 1025` → `...74 31` (disables complaint score check)
 - `simple_triggers.txt`: `1025 2 144115188075855964 -1` → `31 2 ...` (disables food complaint trigger)
 - `simple_triggers.txt`: `1025 2 144115188075855882 -1` → `31 2 ...` (disables personality complaint trigger)
+
+---
+
+## Tweak 10t — Participate in battles while wounded
+**File:** `menus.txt`
+**Status:** ✅ Applied
+
+Removed `2147485156 1 360287970189639680` (wounded check) from 9 battle entry menu options:
+- `mno_encounter_attack`, `mno_join_attack`, `mno_join_siege_with_allies`
+- `mno_castle_lead_attack`, `mno_siege_defender_join_battle`, `mno_village_attack_bandits`
+- `mno_castle_attack_surprise`, `mno_castle_attack`, `mno_camp_train_melee`
