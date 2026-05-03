@@ -46,3 +46,12 @@ Replaced with:
 ```
 0.100000 0.500000 100000000.000000  0  0
 ```
+
+---
+
+## Tweak 17b — Faster garrison/lord party training
+**File:** `simple_triggers.txt`
+**Status:** ✅ Applied
+
+Training trigger interval halved so troops level up twice as fast:
+- `48.000000` → `24.000000` (line 34, the garrison training trigger)
