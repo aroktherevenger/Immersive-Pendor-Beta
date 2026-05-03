@@ -1,0 +1,33 @@
+# Applied Tweaks Log
+
+Tracks all tweaks applied to the PoP installation at:
+`C:\Program Files (x86)\Steam\steamapps\common\MountBlade Warband\Modules\Prophesy of Pendor V3.9.5`
+
+To revert any tweak, use the original values listed below.
+
+---
+
+## Tweak 21f — Increase XP gain rates
+**File:** `module.ini`
+**Status:** ✅ Applied
+
+| Setting | Before | After |
+|---------|--------|-------|
+| `player_xp_multiplier` | `1.5` | `3.0` |
+| `hero_xp_multiplier` | `1.5` | `3.0` |
+| `regulars_xp_multiplier` | `1.0` | `2.0` |
+
+---
+
+## Tweak 21b — Remove luck decay
+**File:** `simple_triggers.txt`
+**Status:** ✅ Applied
+
+Original line 22:
+```
+200.000000  2 2106 2 144115188075856083 1 2111 2 144115188075856083 25 
+```
+Replaced with empty trigger:
+```
+200.000000  0
+```
