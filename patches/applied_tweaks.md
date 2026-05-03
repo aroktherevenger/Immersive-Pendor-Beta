@@ -216,6 +216,15 @@ In `party_calculate_loot`: counter `336` → `359` (added 23 ops). Inserted sele
 
 ---
 
+## Tweak 2q — Fix KO promotion reward tracking bug
+**File:** `conversation.txt`
+**Status:** ✅ Applied
+
+In `dlga_start:hall_order_guard_talk`: replaced rank-up logic so each rank reward is granted explicitly when reached (not just the latest rank). Counter `18` → `19`. Prevents losing access to outfit rewards / Order Stronghold when ranking up multiple times in quick succession (e.g. creating 8-9 chapters in a row).
+*Note: does not retroactively grant rewards already missed.*
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
