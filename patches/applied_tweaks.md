@@ -119,6 +119,16 @@ Loot divisor halved (twice as much loot drops per battle):
 
 ---
 
+## Tweak 12k — Sell garrisoned prisoners to ransom brokers
+**File:** `scripts.txt`
+**Status:** ✅ Applied
+
+Extended `sell_all_prisoners` script to also loop through garrison prisoners:
+- Counter: `13` → `28`
+- Inserted garrison prisoner loop after party prisoner block (before final faction check)
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
