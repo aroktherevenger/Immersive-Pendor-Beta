@@ -410,6 +410,15 @@ New dialogue option: give 10,000 denars to friendly (relation ≥30) poor (wealt
 
 ---
 
+## 🛠️ Crash Fix (2026-05-03)
+**File:** `conversation.txt`
+
+Two crash dumps reported. Root cause: 5 blank lines accidentally inserted by Edit operations during 13l, 17x, 16n, 15g, 15n (each `new_string` ended with a trailing newline that became a blank line). Game engine expects exactly `N` dialogues after the counter — blank lines shift offsets and corrupt parsing.
+
+Removed 5 blank lines at original positions 397, 1621, 2441, 3719, 3742. Counter (4185) now matches actual dialogue count exactly.
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
