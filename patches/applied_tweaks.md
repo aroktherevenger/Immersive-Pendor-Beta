@@ -65,3 +65,13 @@ Training trigger interval halved so troops level up twice as fast:
 Capture threshold lowered from `60` to `40` (roll + prisoner_management×5 >= 40):
 - `menus.txt`: `2147483678 2 1224979098644774956 60` → `...956 40`
 - `scripts.txt`: `30 2 1224979098644774957 60` → `...957 40` (both Eyegrim and Three Seers instances)
+
+---
+
+## Tweak 16c — Disable companion complaints
+**Files:** `scripts.txt`, `simple_triggers.txt`
+**Status:** ✅ Applied (complaint triggers disabled; menu button skipped)
+
+- `scripts.txt`: `2133 2 144115188075857049 74 1025` → `...74 31` (disables complaint score check)
+- `simple_triggers.txt`: `1025 2 144115188075855964 -1` → `31 2 ...` (disables food complaint trigger)
+- `simple_triggers.txt`: `1025 2 144115188075855882 -1` → `31 2 ...` (disables personality complaint trigger)
