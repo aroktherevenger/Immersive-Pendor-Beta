@@ -49,7 +49,11 @@
       "Bash(awk 'NR>2' \"/c/Program Files \\(x86\\)/Steam/steamapps/common/MountBlade Warband/Modules/Prophesy of Pendor V3.9.5/simple_triggers.txt\")",
       "Bash(awk 'NR>2 && NF==0' \"/c/Program Files \\(x86\\)/Steam/steamapps/common/MountBlade Warband/Modules/Prophesy of Pendor V3.9.5/simple_triggers.txt\")",
       "Bash(echo '{\"tool_input\": {\"file_path\": \"C:\\\\\\\\Program Files \\(x86\\)\\\\\\\\Steam\\\\\\\\steamapps\\\\\\\\common\\\\\\\\MountBlade Warband\\\\\\\\Modules\\\\\\\\Prophesy of Pendor V3.9.5\\\\\\\\conversation.txt\"}}')",
-      "Bash(python \"C:\\\\Users\\\\arosh\\\\Pendor Modding\\\\tools\\\\pop_validator.py\" --hook)"
+      "Bash(python \"C:\\\\Users\\\\arosh\\\\Pendor Modding\\\\tools\\\\pop_validator.py\" --hook)",
+      "Bash(curl -s \"https://pop3.fandom.com/api.php?action=parse&page=Template:Tweaks_1&prop=wikitext&format=json\")",
+      "Bash(python \"C:\\\\Users\\\\arosh\\\\Pendor Modding\\\\tools\\\\pop_validator.py\")",
+      "Bash(git fetch *)",
+      "Bash(git log *)"
     ]
   }
 }
