@@ -253,6 +253,30 @@ Comprehensive rewrite of the KO/CKO war-room training system:
 
 ---
 
+## Tweak 5b — Inquisition hostile to Singalians and Outlaws
+**File:** `factions.txt`
+**Status:** ✅ Applied (requires new game for full effect)
+
+Faction relation matrix updated:
+- `fac_inquisition` row: index 2 (outlaws) `0.0`→`-0.1`; index 40 (singalians) `0.0`→`-0.2`
+- `fac_outlaws` row: index 43 (inquisition) `0.0`→`-0.1`
+- `fac_singalians` row: index 43 (inquisition) `0.0`→`-0.2`
+
+---
+
+## Tweak 5k + 14c (combined boost) — Boost relation & honor quest rewards
+**File:** `conversation.txt`
+**Status:** ✅ Applied
+
+Mass-edit via regex to make Pendor less grindy on relations/honor:
+- All `change_player_relation_with_center` (town/village) positive values: ×1.5 (21 instances)
+- All `change_player_relation_with_troop` (lord) positive values: ×1.5; negative penalties halved (83 instances)
+- All `change_player_honor` positive values: ×1.5; negative penalties halved (46 instances)
+
+Examples: Town `1`→`2`, town `5`→`7`, lord `9`→`13`, lord penalty `-30`→`-15`, honor `2`→`3`.
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
