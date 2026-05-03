@@ -129,6 +129,17 @@ Extended `sell_all_prisoners` script to also loop through garrison prisoners:
 
 ---
 
+## Tweak 19c — Prisoner capacity scales with party size
+**File:** `scripts.txt`
+**Status:** ✅ Applied
+
+Replaced `game_get_party_prisoner_limit` with party-size formula:
+- Old: fixed prisoner cap based on prisoner management skill only
+- New: `capacity = (party_size - 1) / (5 - 0.3 × Prisoner_Management)`
+- Script counter: `6` → `10`
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
