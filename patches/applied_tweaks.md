@@ -140,6 +140,23 @@ Replaced `game_get_party_prisoner_limit` with party-size formula:
 
 ---
 
+## Tweak 12d — Better enterprise production rates
+**File:** `scripts.txt`
+**Status:** ✅ Applied
+
+All enterprise labor/upkeep costs halved (slot 53). Mill/Bakery output also doubled (30→60):
+- Mill/Bakery (711861): output 30→60, labor 50→25
+- Brewery (711849): labor 120→60
+- Wine Press (711848): labor 220→110
+- Tannery (711845): labor 220→110
+- Velvet Weavery (711838): labor 250→125
+- Wool Weavery (711833): labor 450→225
+- Silver Smith (711836): labor 250→125
+- Olive Press (711843): labor 410→205
+- Iron Mine (711841): labor 1025→512
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
