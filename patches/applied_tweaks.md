@@ -166,6 +166,16 @@ Counter decreased: `12` → `11`
 
 ---
 
+## Tweak 13v — Faster/cheaper fief improvements
+**Files:** `menus.txt`, `simple_triggers.txt`, `scripts.txt`
+**Status:** ✅ Applied
+
+- `menus.txt`: build speed divisor `150` → `300` (builds twice as fast per denar spent)
+- `simple_triggers.txt`: auto-repair frequency `168.07h` → `84h` (twice as frequent)
+- `scripts.txt`: removed repair cost op `1529 2 360287970189639680 1224979098644774921`; counter 65→64
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
