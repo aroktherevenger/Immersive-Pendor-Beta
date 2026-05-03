@@ -390,6 +390,26 @@ Companions costing 3000+ denars to hire get top-tier gear and locked inventories
 
 ---
 
+## Tweak 15c — Attack any lord without restrictions
+**File:** `conversation.txt`
+**Status:** ✅ Applied
+
+Removes the relation-check that blocks attacking neutral/friendly lords on the world map. Plus a safety: attacking your own kingdom's lords doesn't trigger the make-kingdom-hostile script.
+- `dlga_lord_talk:party_encounter_lord_hostile_ultimatum_surrender`: counter 3→2; removed `2147483678 2 144115188075856958 0` (relation gate)
+- `dlga_party_encounter_lord_hostile_ultimatum_surrender:close_window`: counter 8→11; wrapped the kingdom-hostile script call in a check (skip if attacking own kingdom)
+
+---
+
+## Tweak 15n — Give money to poor friendly lords
+**Files:** `dialog_states.txt`, `conversation.txt`
+**Status:** ✅ Applied
+
+New dialogue option: give 10,000 denars to friendly (relation ≥30) poor (wealth ≤2000) lords for +8 relation. The money goes to their budget — they actually spend it on troops.
+- `dialog_states.txt`: added `lord_sponsor` (state ID 1879)
+- `conversation.txt`: counter 4183→4185; added 2 dialogue lines after `dlga_lord_talk:lord_predemand`
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
