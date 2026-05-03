@@ -157,6 +157,15 @@ All enterprise labor/upkeep costs halved (slot 53). Mill/Bakery output also doub
 
 ---
 
+## Tweak 9c — Fix sally-out consciousness bug
+**File:** `mission_templates.txt`
+**Status:** ✅ Applied
+
+Removed `2147484654 1 0` (bad consciousness op) from `mst_castle_attack_walls_defenders_sally` trigger.
+Counter decreased: `12` → `11`
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
