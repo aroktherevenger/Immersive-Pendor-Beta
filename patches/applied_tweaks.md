@@ -225,6 +225,19 @@ In `dlga_start:hall_order_guard_talk`: replaced rank-up logic so each rank rewar
 
 ---
 
+## Tweak 2t — Sergeants get half stats from default training too
+**File:** `conversation.txt`
+**Status:** ✅ Applied
+
+In `dlga_pop2_war_room_menu:pop2_war_room_improve_troops` and the two response/done dialogues:
+- Replaced the "Honor Troops" wording with separate Knights/Sergeants gains text
+- Sergeants now also gain stats per training: +1 STR, +1 AGI, +10 weapon profs (half of knights' +2/+2/+20)
+- Dialogue option counter: 3→4 / 9→10
+- Done counter: 27→42 (added sergeant training block)
+- Menu now shows order name (`s1`) instead of knight name
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
