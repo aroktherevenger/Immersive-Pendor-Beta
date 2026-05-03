@@ -419,6 +419,19 @@ Removed 5 blank lines at original positions 397, 1621, 2441, 3719, 3742. Counter
 
 ---
 
+## 🛠️ Crash Fix #2 (2026-05-03 - "out of memory")
+**File:** `conversation.txt`
+
+User reported a second crash with "out of memory" exception during conversation loading.
+
+Root cause: Tweak **14g** (looter quest aggressive approach) had a counter mismatch. The dialogue counter said `26` ops but the body actually had `27` ops because the original `1642 2 72057594037927936 0` operation was supposed to be replaced (per wiki) but I kept it accidentally — adding the new ops on top instead of replacing.
+
+The engine reads exactly `26` ops, then reads `1642 2 72057594037927936 0` as if it was the dialogue text, treating subsequent tokens as dialogue structure → garbage offsets → memory allocation runs wild → OOM.
+
+Removed the extra `1642 2 72057594037927936 0` op from `dlga_merchant_quest_looters_brief:close_window`. Verified all 4185 dialogue lines now parse cleanly.
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
