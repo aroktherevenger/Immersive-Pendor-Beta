@@ -31,3 +31,18 @@ Replaced with empty trigger:
 ```
 200.000000  0
 ```
+
+---
+
+## Tweak 9b — Disable ammo reduction on sally-outs
+**File:** `mission_templates.txt`
+**Status:** ✅ Applied
+
+Original:
+```
+0.100000 0.500000 100000000.000000  0  1 1 3 936748722493063848 0 6 
+```
+Replaced with:
+```
+0.100000 0.500000 100000000.000000  0  0
+```
