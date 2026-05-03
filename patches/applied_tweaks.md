@@ -277,6 +277,24 @@ Examples: Town `1`→`2`, town `5`→`7`, lord `9`→`13`, lord penalty `-30`→
 
 ---
 
+## Tweak 17x — Brother Randalf reveals all bandit lairs
+**Files:** `quick_strings.txt`, `conversation.txt`
+**Status:** ✅ Applied
+
+After buying the Al-Aziz mines map, Brother Randalf now offers to reveal all bandit lair locations on the world map for 1000 denars. Manually re-trigger to refresh new lairs.
+
+---
+
+## Tweak 16l — Bodyguard companions in scenes
+**Files:** `conversation.txt`, `mission_templates.txt`
+**Status:** ✅ Applied
+
+Up to 4 of your top companions follow you into town/village/castle scenes. Number = Leadership/3 + Renown/400 (max 4).
+- `conversation.txt`: `dlga_start:close_window.11` counter 4→5 with new context flag
+- `mission_templates.txt`: 6 sections updated with counter+3 and 3 new triggers each (`mst_town_default`, `mst_town_center`, `mst_village_center`, `mst_bandits_at_night`, `mst_castle_visit`, `mst_sneak_caught_fight`)
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
