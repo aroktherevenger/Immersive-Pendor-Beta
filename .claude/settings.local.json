@@ -20,7 +20,9 @@
       "Skill(update-config:*)",
       "Bash(pip install *)",
       "WebFetch(domain:web.archive.org)",
-      "Bash(curl -s \"https://pop3.fandom.com/api.php?action=parse&page=Template:Tweaks_10&prop=wikitext&format=json\")"
+      "Bash(curl -s \"https://pop3.fandom.com/api.php?action=parse&page=Template:Tweaks_10&prop=wikitext&format=json\")",
+      "Bash(git merge *)",
+      "Bash(git stash *)"
     ]
   }
 }
