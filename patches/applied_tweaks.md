@@ -450,6 +450,47 @@ Verified all 1203 troops in `troops.txt` now have correct 128-token equipment li
 
 ---
 
+## Tweak 1w — Better player party size formula
+**File:** `scripts.txt`
+**Status:** ✅ Applied
+
+In `game_get_party_companion_limit`:
+- Base party size: `10` → `15`
+- Leadership multiplier: `10` → `15` (each lvl gives +15 instead of +10)
+- Charisma multiplier: `2` → `3`
+- Renown divisor: `25` → `20` (renown contributes more)
+
+Formula: `15 + (leadership × 15) + (charisma × 3) + (renown ÷ 20)`. At lead 10/cha 20/renown 500 = 250 troop cap (vs vanilla 170).
+
+---
+
+## Tweak 12i — Cheaper tavern wine purchases
+**File:** `conversation.txt`
+**Status:** ✅ Applied
+
+`dlga_tavernkeeper_buy_drinks:tavernkeeper_buy_drinks_2` purchase cost: `1000` → `500` denars per round. Combined with our 5k boost (relation +1→+2 from buying drinks), grinding town relations is much more affordable.
+
+---
+
+## Tweak 12p — Invest in villages for prosperity growth
+**Files:** `simple_triggers.txt`, `dialog_states.txt`, `conversation.txt`
+**Status:** ✅ Applied
+
+Talk to any village elder (your village, your kingdom's village, or any with prosperity ≤180): new option *"I'd like to help your village with some money (5000 denars)"*.
+- Costs 5000 denars
+- +50 prosperity over time (capped at 380)
+- +1 honor
+- +10 village relation
+- +/- relation with owner depending on personality
+
+Repeatable on multiple villages once the elder has spent the previous donation.
+
+- `simple_triggers.txt`: counter 135→136; new 24h trigger handles the prosperity-spending economy
+- `dialog_states.txt`: added `village_sponsor` state (ID 1880)
+- `conversation.txt`: counter 4185→4187; 2 new dialogues before `dlga_village_elder_talk:village_elder_trade_begin`
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
