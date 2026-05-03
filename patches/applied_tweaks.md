@@ -176,6 +176,14 @@ Counter decreased: `12` → `11`
 
 ---
 
+## Tweak 14g (partial) — Fix looter quest: make looters approach aggressively
+**File:** `conversation.txt`
+**Status:** ✅ Applied (Fix 3 of 3; Fixes 1+2 skipped — too complex)
+
+In `dlga_merchant_quest_looters_brief:close_window`: counter 25→26, replaced passive assignment block with aggressive approach ops (`1641`, `1639`, `1606`, `1607`).
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
