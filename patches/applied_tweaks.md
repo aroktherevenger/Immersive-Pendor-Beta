@@ -195,6 +195,19 @@ In `get_item_upgrade_cost_and_time`:
 
 ---
 
+## Tweak 13l — Send troops to any owned walled fief remotely
+**Files:** `variables.txt`, `dialog_states.txt`, `conversation.txt`, `simple_triggers.txt`
+**Status:** ✅ Applied
+
+Adds new village elder dialogue option to send troops from your party to any owned walled fief for 500 denars (covers food).
+
+- `variables.txt`: added `send_troops_tweak` (line 1449, ID `144115188075857320`)
+- `dialog_states.txt`: added 4 new states (1874-1877): `send_reinf_to_fief1` through `send_reinf_to_fief4`
+- `conversation.txt`: counter `4152` → `4158`; added 6 new dialogue lines after `dlga_village_elder_talk:village_elder_request_mission_ask`
+- `simple_triggers.txt`: counter `133` → `134`; added new trigger at end of file (handles the actual troop transfer)
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
