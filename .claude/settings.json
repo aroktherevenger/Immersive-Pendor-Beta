@@ -5,5 +5,18 @@
       "args": ["C:\\Users\\arosh\\Pendor Modding\\tools\\mcp_server\\server.py"],
       "cwd": "C:\\Users\\arosh\\Pendor Modding\\tools\\mcp_server"
     }
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python \"C:\\Users\\arosh\\Pendor Modding\\tools\\pop_validator.py\" --hook"
+          }
+        ]
+      }
+    ]
   }
 }
