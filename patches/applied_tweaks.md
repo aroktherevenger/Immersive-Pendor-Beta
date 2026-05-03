@@ -86,3 +86,13 @@ Removed `2147485156 1 360287970189639680` (wounded check) from 9 battle entry me
 - `mno_encounter_attack`, `mno_join_attack`, `mno_join_siege_with_allies`
 - `mno_castle_lead_attack`, `mno_siege_defender_join_battle`, `mno_village_attack_bandits`
 - `mno_castle_attack_surprise`, `mno_castle_attack`, `mno_camp_train_melee`
+
+---
+
+## Tweak 14f — Guildmaster auto-offers new quest when you decline
+**File:** `conversation.txt`
+**Status:** ✅ Applied
+
+Removed the condition checking if you've already been given a quest (so guildmaster always offers):
+- Condition count: `3` → `2`
+- Removed: `2147483679 2 144115188075856101 144115188075855892`
