@@ -105,3 +105,18 @@ Removed the condition checking if you've already been given a quest (so guildmas
 
 Loot divisor halved (twice as much loot drops per battle):
 - `2108 2 1224979098644774927 8` → `...927 4`
+
+---
+
+## Tweak 2g — Guarantee KO chapters at game start
+**File:** `scripts.txt`
+**Status:** ✅ Applied (requires new game)
+
+All KO chapter spawn probabilities set to 100%:
+- Silvermists (648518346341351456): `31` → `100`
+- Ebony Gauntlet (648518346341351461): `31`/`46` → `100`/`100`
+- Radiant Cross (648518346341351448): `81`/`91` → `100`/`100`
+- Falcons (648518346341351500): `51` → `100`
+- Windriders (648518346341351462): `21` → `100`
+- Dragons (648518346341351453): `31` → `100`
+- Lions (648518346341351452): `11` → `100`
