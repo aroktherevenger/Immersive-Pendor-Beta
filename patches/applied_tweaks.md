@@ -96,3 +96,12 @@ Removed `2147485156 1 360287970189639680` (wounded check) from 9 battle entry me
 Removed the condition checking if you've already been given a quest (so guildmaster always offers):
 - Condition count: `3` → `2`
 - Removed: `2147483679 2 144115188075856101 144115188075855892`
+
+---
+
+## Tweak 11a — Increase loot from battles
+**File:** `scripts.txt`
+**Status:** ✅ Applied
+
+Loot divisor halved (twice as much loot drops per battle):
+- `2108 2 1224979098644774927 8` → `...927 4`
