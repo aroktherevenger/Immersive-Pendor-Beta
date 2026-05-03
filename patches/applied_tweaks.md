@@ -55,3 +55,13 @@ Replaced with:
 
 Training trigger interval halved so troops level up twice as fast:
 - `48.000000` → `24.000000` (line 34, the garrison training trigger)
+
+---
+
+## Tweak 1a — Easier unique spawn capture
+**Files:** `menus.txt`, `scripts.txt`
+**Status:** ✅ Applied
+
+Capture threshold lowered from `60` to `40` (roll + prisoner_management×5 >= 40):
+- `menus.txt`: `2147483678 2 1224979098644774956 60` → `...956 40`
+- `scripts.txt`: `30 2 1224979098644774957 60` → `...957 40` (both Eyegrim and Three Seers instances)
