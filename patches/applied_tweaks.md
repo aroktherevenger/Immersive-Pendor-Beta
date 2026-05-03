@@ -432,6 +432,24 @@ Removed the extra `1642 2 72057594037927936 0` op from `dlga_merchant_quest_loot
 
 ---
 
+## 🛠️ Crash Fix #3 (2026-05-03 - new game crash, troops.txt loading)
+**File:** `troops.txt`
+
+User reported crash when starting a new game. Dump showed crash during `troops.txt` parsing.
+
+Root cause: Tweak **16p** equipment overhauls left 11 companions with truncated equipment lines. Each troop's equipment line must contain exactly **128 tokens** (64 item slots × 2 tokens each: item_id + slot_modifier). My replacements from the wiki were missing 4-8 tokens because the wiki text had been truncated when I copied it.
+
+The engine reads exactly 64 slots; with fewer tokens it reads into the next line (the attributes line) as item IDs, attempting to allocate ~3 billion item slots → garbage data → access violation when starting a new game.
+
+Padded all 11 modified companions back to 128 tokens with extra `-1 0` empty slots:
+- Lethaldiran, Jocelyn, Ediz: +3 pairs each
+- Alistair, Rayne, Frederick, Donavan, Roland, Sigismund, Boadice: +2 pairs each
+- Diev: +4 pairs
+
+Verified all 1203 troops in `troops.txt` now have correct 128-token equipment lines.
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
