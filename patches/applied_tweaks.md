@@ -342,20 +342,25 @@ Food consumption interval `14h` → `168h` (every 7 days instead of every 14 hou
 
 ---
 
-## Tweak 15d — Lords never escape from captivity
+## Tweak 15d — Reduce lord escape chances (revised)
 **File:** `simple_triggers.txt`
-**Status:** ✅ Applied
+**Status:** ✅ Applied (adjusted from initial too-strict version)
 
-- Player party escape chance: `(400 - 20×PrisonerMgmt)/10` → `0`
-- Garrison escape chance: `(200 - 10×StewardPrisonerMgmt)/10` → `0`
-Imprisoned lords never escape, regardless of skill.
+- **Player party escape chance: kept at vanilla** `(400 - 20×PrisonerMgmt)/10` (40%→20% based on PM)
+- **Garrison escape chance halved:** `(200 - 10×StewardPrisonerMgmt)/10` → `(100 - 5×StewardPrisonerMgmt)/10` (10%→5% based on PM)
+
+Field captures stay challenging; once you stash them in a fief, they're much more secure.
 
 ---
 
 ## Tweak 8d — Whistle for nearest horse
-**Status:** ⏸️ Pending (requires external `horse_whistle.ogg` sound file)
+**Files:** `Sounds/horse_whistle.ogg`, `sounds.txt`, `mission_templates.txt`
+**Status:** ✅ Applied
 
-The tweak data is straightforward but it depends on a custom sound file from a Google Drive link that needs to be manually downloaded to the PoP `Sounds/` folder before the tweak can be applied. Skipped until the asset is available.
+Press **H** in field battles or village bandit fights to whistle for the nearest horse within 50m. Horse comes to where you stood when you pressed the button (doesn't track you).
+- Copied `horse_whistle.ogg` to PoP `Sounds/` folder
+- `sounds.txt`: counter 1342→1343; added `horse_whistle.ogg 2720` entry; secondary counter 639→640; appended `snd_horse_whistle 2720 1 1342 0`
+- `mission_templates.txt`: `mst_lead_charge` counter 66→67 with new trigger; `mst_village_attack_bandits` counter 24→25 with new trigger
 
 ---
 
