@@ -208,6 +208,14 @@ Adds new village elder dialogue option to send troops from your party to any own
 
 ---
 
+## Tweak 11c — Fix loot order bug (sort by level)
+**File:** `scripts.txt`
+**Status:** ✅ Applied
+
+In `party_calculate_loot`: counter `336` → `359` (added 23 ops). Inserted selection-sort loop that finds the highest-level defeated troop and processes loot from them first, eliminating order-dependent loot RNG.
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
