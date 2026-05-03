@@ -184,6 +184,17 @@ In `dlga_merchant_quest_looters_brief:close_window`: counter 25→26, replaced p
 
 ---
 
+## Tweak 3c — Cheaper/faster CKO equipping
+**File:** `scripts.txt`
+**Status:** ✅ Applied
+
+In `get_item_upgrade_cost_and_time`:
+- Time multiplier: `100` → `500` (equipping ~5x faster)
+- Cost divisor: `1000` → `200` (5x cheaper)
+- Minimum cost: `1000` → `100` denars
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
