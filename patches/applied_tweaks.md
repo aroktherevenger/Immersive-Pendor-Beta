@@ -491,6 +491,33 @@ Repeatable on multiple villages once the elder has spent the previous donation.
 
 ---
 
+## Tweak 18k — Ullr Vetr Manifest stays after Wolfbode is defeated
+**File:** `simple_triggers.txt`
+**Status:** ✅ Applied
+
+Removes the code that strips Ullr Vetr Manifest from the loot pool when Wolfbode the Slayer is defeated. Previously the legendary weapon would disappear on his death; now it drops normally.
+- Deleted 93-op code block from the `24.000000` periodic trigger that handled the item removal
+- Trigger op count: `114` → `21`
+
+---
+
+## Tweak 19b — Persuasion skill actually matters
+**Files:** `conversation.txt`, `menus.txt`
+**Status:** ✅ Applied
+
+Three changes to make Persuasion meaningful:
+
+| Aspect | Before | After |
+|--------|--------|-------|
+| Companion retention roll range | `-2` to `12` | `-5` to `12` (lower floor = better odds) |
+| Lord/king persuasion formula | `+5` added to skill | `×5` multiplied (opcode `2120` → `2122`) |
+| Prisoner recruitment rejection | `(15 - Persuasion) × 4%` | `(10 - Persuasion) × 4%` (10% less rejection overall) |
+
+- `conversation.txt`: `2136 3 ... -2 13` → `-5 13`; `2120 3 ...` → `2122 3 ...`
+- `menus.txt` (`menu_camp_recruit_prisoners`): `2121 3 ... 15 ...` → `10`
+
+---
+
 ## Tweak 13x — Lords build fief improvements more frequently
 **Files:** `conversation.txt`, `menus.txt`, `simple_triggers.txt`
 **Status:** ✅ Applied
