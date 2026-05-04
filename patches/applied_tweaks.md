@@ -491,6 +491,23 @@ Repeatable on multiple villages once the elder has spent the previous donation.
 
 ---
 
+## Tweak 13x — Lords build fief improvements more frequently
+**Files:** `conversation.txt`, `menus.txt`, `simple_triggers.txt`
+**Status:** ✅ Applied
+
+Two changes:
+
+**1) Train fellow lords' stewards** — You can now train stewards of lords in your own faction (village elders + walled center stewards), improving their Engineer skill so they can build all improvements and maximize auto-repair. Grants relation bonus with their fiefs.
+- `conversation.txt` line 2318: changed first condition in `dlga_steward_menu:steward_menu3` from faction-check `541 3 144115188075856143 7 360287970189639680` → same-faction check `31 2 144115188075856957 144115188075856294`
+- `conversation.txt` line 3425: same change in `dlga_village_elder_talk:village_elder_menu3`
+- `menus.txt` `mno_village_train_steward`: same condition swap on steward training menu option
+- `menus.txt` `mno_walled_center_train_steward`: same condition swap
+
+**2) Lords build 4× more frequently** — build trigger interval reduced from 20 days to 5 days.
+- `simple_triggers.txt`: `480.200000` → `120.000000` (hours between lord improvement-building checks)
+
+---
+
 ## Tweak 2g — Guarantee KO chapters at game start
 **File:** `scripts.txt`
 **Status:** ✅ Applied (requires new game)
