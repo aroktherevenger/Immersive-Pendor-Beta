@@ -28,6 +28,16 @@ See the full version history in the [changelog](CHANGELOG.md).
 - **Prophesy of Pendor v3.9.5** (required)
 - WSE2 recommended (used in development) but not required — runs on standard Warband too.
 
+## Roadmap / Future plans
+
+This is a living project. The rough priorities going forward:
+
+- **Stability first** — squash bugs and polish what's already in the beta. Reported issues take priority over new content.
+- **A personal quest for every companion** — extend the multi-stage backstory arcs until *all* of Pendor's companions have one, not just the current handful.
+- **A main questline (longer term)** — an overarching story to give the campaign a narrative spine, once the companion arcs are in place.
+
+Plans may shift based on feedback and how much time a one-man army can find. Suggestions are welcome.
+
 ## Shout outs
 
 - The **Prophesy of Pendor development team**, whose incredible mod this is built upon.
