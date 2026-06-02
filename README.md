@@ -40,5 +40,6 @@ Plans may shift based on feedback and how much time a one-man army can find. Sug
 
 ## Shout outs
 
+- **Saxondragon**, the original creator and founder of the Prophesy of Pendor mod series.
 - The **Prophesy of Pendor development team**, whose incredible mod this is built upon.
 - The **Warband / PoP tweaking community**, whose tweak guides inspired many of the quality-of-life changes.
