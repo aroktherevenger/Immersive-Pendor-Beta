@@ -6,6 +6,8 @@ Immersive Pendor is a solo-built overhaul submod for **Prophesy of Pendor** that
 
 This is an **early beta**: I'm a one-man army, so expect rough edges, and bug reports or feedback are hugely appreciated.
 
+See the full version history in the [changelog](CHANGELOG.md).
+
 ## Installation instructions
 
 1. Make sure you're on **Prophesy of Pendor v3.9.5** (this exact version).
