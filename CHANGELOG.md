@@ -7,6 +7,16 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
+## [0.2]
+
+Bug fixes for the 0.1 beta.
+
+### Fixes
+
+- **Random travelling events no longer quit to the main menu.** Previously, choosing *any* option in a random world-map event (the wandering Sarleon knight, the desert grave, the Mystmountain toll, and the rest) dropped you to the main menu instead of back to the map. All 30 events now close correctly and return you to your travels.
+
+---
+
 ## [0.1] — Beta
 
 First public beta. Built on Prophesy of Pendor v3.9.5.
