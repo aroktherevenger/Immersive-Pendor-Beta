@@ -17,6 +17,7 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Random travelling events no longer spoil their outcomes.** Event choices used to list their rewards right in the option text (e.g. "(+3 renown, Sarleon +1)"). Those hints are gone — you now decide blind and live with the consequences.
 - **Rewards are revealed afterward in the message log.** Once you make a choice, what you gained shows in the top-left log — now including gold and items, which previously arrived silently.
+- **Companion-quest rewards are spelled out in the log too.** Finishing a companion's personal quest now reports the experience gained, any item received, and a note that the companion has grown more skilled — rewards that used to be applied silently.
 
 ---
 
