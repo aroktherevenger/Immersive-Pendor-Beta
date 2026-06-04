@@ -11,7 +11,11 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ### New systems & content
 
-- **Arena practice fights are now once per day.** You can enter the arena training melee a single time per in-game day; after your bout the Arena Master tells you to rest and return tomorrow, and the option reopens at the next day's dawn. Keeps arena training from being an endless same-day XP/gold grind. Tournaments are unaffected. *Access:* talk to the Arena Master in any town and choose to join the melee.
+- **Arena practice fights are now once per day.** You can enter the arena training melee a single time per in-game day; after your bout the Arena Master tells you to rest and return on the morrow, and the option reopens at the next day's dawn. Keeps arena training from being an endless same-day XP/gold grind. Tournaments are unaffected. *Access:* talk to the Arena Master in any town and choose to join the melee.
+
+### Changes
+
+- **Random travelling events no longer spoil their outcomes.** Event choices used to list their rewards right in the option text (e.g. "(+3 renown, Sarleon +1)"). Those hints are gone — you now decide blind and live with the consequences.
 
 ---
 
