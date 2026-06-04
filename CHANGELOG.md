@@ -7,6 +7,14 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
+## [0.3]
+
+### New systems & content
+
+- **Arena practice fights are now once per day.** You can enter the arena training melee a single time per in-game day; after your bout the Arena Master tells you to rest and return tomorrow, and the option reopens at the next day's dawn. Keeps arena training from being an endless same-day XP/gold grind. Tournaments are unaffected. *Access:* talk to the Arena Master in any town and choose to join the melee.
+
+---
+
 ## [0.2]
 
 Bug fixes and balance tweaks for the 0.1 beta.
