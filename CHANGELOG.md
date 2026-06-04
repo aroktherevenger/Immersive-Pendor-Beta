@@ -19,6 +19,7 @@ Features list **Access:** — how to actually reach the content in-game.
 - **Rewards are revealed afterward in the message log.** Once you make a choice, what you gained shows in the top-left log — now including gold and items, which previously arrived silently.
 - **Companion-quest rewards are spelled out in the log too.** Finishing a companion's personal quest now reports the experience gained, any item received, and a note that the companion has grown more skilled — rewards that used to be applied silently.
 - **Honor and faction-standing changes now show the amount.** Messages used to just say "You gain honor." or "{Faction} relation increased." — now they read "You gain 2 honor." and "Kingdom of Sarleon thinks better of you (+1)", so every reward states exactly how much (this applies game-wide, not just to the new content).
+- **Travelling events resolve cleanly on the spot.** Options that sounded like they sent you off on an untracked errand (escort the merchant, take the girl to town, send the prisoner to the Inquisition) are reworded so the outcome clearly happens then and there — no more "we'll do X" with nothing to follow up on.
 
 ---
 
