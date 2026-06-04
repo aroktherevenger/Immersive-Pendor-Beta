@@ -9,11 +9,15 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ## [0.2]
 
-Bug fixes for the 0.1 beta.
+Bug fixes and balance tweaks for the 0.1 beta.
 
 ### Fixes
 
 - **Random travelling events no longer quit to the main menu.** Previously, choosing *any* option in a random world-map event (the wandering Sarleon knight, the desert grave, the Mystmountain toll, and the rest) dropped you to the main menu instead of back to the map. All 30 events now close correctly and return you to your travels.
+
+### Balance
+
+- **Tournament victory prize reduced from 5000 to 2000 denars.** Winning a town tournament paid out an inflated 5000-denar prize; lowered to a more grounded 2000.
 
 ---
 
