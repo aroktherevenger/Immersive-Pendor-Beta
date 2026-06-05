@@ -7,6 +7,12 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
+## [0.32]
+
+Maintenance release — version-label bump only. No gameplay or content changes from 0.31; all 0.31 features and fixes carry over unchanged. Existing saves continue to load.
+
+---
+
 ## [0.31]
 
 ### New systems & content
