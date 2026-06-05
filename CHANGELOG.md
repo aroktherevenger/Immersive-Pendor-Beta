@@ -7,6 +7,24 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
+## [0.31]
+
+### New systems & content
+
+- **You're now told when a companion is ready to open up.** When a companion you've kept in your party becomes ready to begin their personal quest, a message appears letting you know they have something on their mind — so you no longer have to guess when their month-of-service timer is up. *Access:* keep the companion in your party; watch for the notice, then talk to them.
+
+### Fixes
+
+- **The arena's once-a-day limit is now tracked per town.** Previously, fighting the arena melee in one town locked the arena everywhere for the rest of the day. Each town now keeps its own daily count, so a bout in Rane no longer stops you fighting in Senderfall the same day. (Refines the 0.3 once-per-day arena.)
+- **Sarleon's villages no longer start under the wrong faction.** With the "villages aren't auto-granted along with their town" tweak active, Balanli and Azgad began a new game owned by Ravenstern lords until Sarleon next changed hands. They now start correctly under Sarleon. *(Tweak 13f.)*
+
+### Balance
+
+- **Arena practice champion prize reduced from 5000 to 2000 denars.** Winning the arena training melee paid an inflated 5000-denar grand prize; lowered to 2000. The lower placing prizes are unchanged.
+- **Tournament victory prize raised from 2000 to 4000 denars.** The 0.2 reduction to 2000 was too steep; settled at 4000.
+
+---
+
 ## [0.3]
 
 ### New systems & content
