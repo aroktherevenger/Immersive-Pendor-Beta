@@ -9,7 +9,10 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ## [0.32]
 
-Maintenance release — version-label bump only. No gameplay or content changes from 0.31; all 0.31 features and fixes carry over unchanged. Existing saves continue to load.
+### New systems & content
+
+- **You can now plan where your troops form up before a battle.** From the Camp menu, open "Plan your battle formations" and set where each division stands relative to you — infantry in front, cavalry to your left, companions on your right, archers behind, and so on. Then, when you charge into a field battle, your captains ask how to form up: **charge in as usual**, or **take up one of your prepared battle plans** — and your troops form on that arrangement around you and hold it. The number of battle plans you can keep grows with your **Tactics** skill: 1 plan at Tactics 2, 2 at Tactics 5, 3 at Tactics 10. *Access:* Camp → "Plan your battle formations" to build your plans; then pick one from the menu that appears when you charge the enemy.
+- **Knighthood-order knights in taverns will now hire you against their rivals.** When you meet a wandering Order knight in a town tavern, you can offer to drive off a rival Order that has been harassing them. Accept, and that rival's patrol appears nearby; defeat it and the deed is done on the spot, no need to report back. Earns you standing and favor with the knight's Order, a little honor, and experience. Each Order will only ask again after some time has passed. *Access:* talk to a knighthood-order knight in any town tavern and choose "Is there a rival Order you'd have me drive off?"
 
 ---
 
