@@ -7,6 +7,14 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
+## [0.33]
+
+### Fixes
+
+- **Pre-battle deployment now keeps your troops on their assigned positions.** When you take up a prepared battle plan, your divisions — cavalry included — hold the spots you set for them instead of charging off or snapping back into the default formation. Each division then responds to your orders independently, so the troops you haven't committed yet stay where you placed them. Choosing to charge in as usual is unchanged and uses normal formations. *Access:* Camp → "Plan your battle formations", then pick a plan when you charge into a field battle.
+
+---
+
 ## [0.32]
 
 ### New systems & content
