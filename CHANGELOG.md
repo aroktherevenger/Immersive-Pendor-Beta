@@ -7,6 +7,23 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
+## [0.34]
+
+### Changes
+- **Travelling encounters reworked so every choice matters.**
+  - Encounters that involve sharing your camp, keeping a vigil, tending a wounded knight, or escorting a caravan now **cost in-game time**, to match what you are actually doing.
+  - New outcomes where the story supports them — **take a captive for ransom** (bind a shipwrecked Vanskerry raider) or **hire a wandering sell-sword** (a masterless Singalian heading north for work).
+  - Empty courtesies — saluting, bowing, swapping idle news — no longer hand out honor or renown for free. Only choices with a real cost or consequence are rewarded.
+  - *Access:* these fire on their own as you travel the world map.
+
+### Balance
+- **Encounter rewards rebalanced.** Coin offered or demanded is now a meaningful sum, not a token handful of denars — and every reward is *earned*, paid for in gold, time, honor, or by passing up a bigger prize. Greedy or dishonourable choices carry an honor cost; charity, duty, and respect for the fallen are what earn honor.
+
+### Fixes
+- Reworked several encounters whose options did not make sense, or where one choice was strictly better than the rest, so each option now stands on its own.
+
+---
+
 ## [0.33]
 
 ### Fixes
