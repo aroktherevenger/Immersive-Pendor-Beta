@@ -7,6 +7,15 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
+## [0.35]
+
+### Changes
+
+- **Troops across every major faction have been re-equipped and rebalanced.** Soldiers of Sarleon, Ravenstern, the Empire, the D'Shar, the Fierdsvain, and Pendor's own forces — along with mercenaries, nobles, squires, knights, and many unique troops — have had their equipment loadouts reworked, with adjusted attributes, weapon proficiencies, and skills across a wide range of them. Close to two hundred troop types are affected, so field battles, garrisons, and the recruits you raise feel noticeably different to fight beside and against. Your companions' own loadouts are left as they were, and existing saves load normally — the changes take effect as troops are spawned.
+- **Several troop upgrade paths have been revised.** Some faction lines now branch differently as they advance: a few gain a second upgrade choice (Sarleon and Ravenstern noblemen, Fierdsvain noblewomen, Empire militia, Pendor swordsmen, D'Shar conscripts), others are streamlined to a single path, and the regional squire lines were reorganised.
+
+---
+
 ## [0.34]
 
 ### Changes
