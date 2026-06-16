@@ -21,6 +21,7 @@ See the full version history in the [changelog](CHANGELOG.md).
 - **Random travelling events** — 30 world-map encounters with choices and rewards.
 - **Expanded diplomacy** — trade agreements between kingdoms, petition your king to declare war or seek peace, return fiefs, and ransom captured kings for peace.
 - **Quality-of-life** — troop-upgrade button, higher XP/point gains, more loot, scaling prisoner capacity, faster training & fief improvements, "use your own gear" tournaments with bigger bets/payouts, reduced food drain, compliment/insult lords, feast relation bonuses, and many smaller fixes.
+- **Faction-wide troop rebalance** — close to two hundred troop types across every faction (Sarleon, Ravenstern, the Empire, the D'Shar, the Fierdsvain, and Pendor) re-equipped with reworked loadouts, adjusted attributes, weapon proficiencies and skills, and several revised upgrade paths.
 
 ## Requirements
 
@@ -43,3 +44,4 @@ Plans may shift based on feedback and how much time a one-man army can find. Sug
 - **Saxondragon**, the original creator and founder of the Prophesy of Pendor mod series.
 - The **Prophesy of Pendor development team**, whose incredible mod this is built upon.
 - The **Warband / PoP tweaking community**, whose tweak guides inspired many of the quality-of-life changes.
+- **ldsantana**, creator of the *Pendor Rearmed* submod, whose troop rebalancing inspired this release's faction-wide combat overhaul.
