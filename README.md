@@ -12,8 +12,8 @@ See the full version history in the [changelog](CHANGELOG.md).
 
 1. Make sure you're on **Prophesy of Pendor v3.9.5** (this exact version).
 2. **Back up** your PoP module folder first (or copy it to a new module so vanilla stays intact).
-3. Copy the contents of the `0.1` folder into your PoP 3.9.5 module directory, letting it overwrite. Keep the folder structure (`languages\en\ui.csv` goes in the matching subfolder).
-4. Launch Warband, pick the module, and **start a new game** (saves from unmodified PoP may break, indices changed).
+3. Copy the contents of the latest **Immersive Pendor** release folder into your PoP 3.9.5 module directory, letting it overwrite.
+4. Launch Warband, pick the module, and **start a new game** (saves from unmodified PoP may break — indices changed).
 
 ## Main features
 
