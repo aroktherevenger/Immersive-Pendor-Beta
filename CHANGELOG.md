@@ -9,6 +9,11 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ## [0.35]
 
+### New systems & content
+- **Freelancer — enlist and serve in a lord's warband.** You can now take up arms as a common soldier under any of the five kingdoms. You enlist as that culture's basic recruit, are issued their equipment, and follow your commander across the campaign map — fighting at his side in both field battles and sieges. Earn weekly wages, rise through the kingdom's regular troop tree with promotions of your own choosing, and leave honourably or desert when you have had enough.
+  - *Access:* speak to any kingdom lord and choose **"I wish to take up arms in your service."** While enlisted, manage your service (request a discharge, or desert) from the **Camp** menu.
+  - *Beta note:* this is a brand-new system — feedback is welcome, especially on which side you fight on during **sieges**. A new save is recommended.
+
 ### Changes
 
 - **Troops across every major faction have been re-equipped and rebalanced.** Soldiers of Sarleon, Ravenstern, the Empire, the D'Shar, the Fierdsvain, and Pendor's own forces — along with mercenaries, nobles, squires, knights, and many unique troops — have had their equipment loadouts reworked, with adjusted attributes, weapon proficiencies, and skills across a wide range of them. Close to two hundred troop types are affected, so field battles, garrisons, and the recruits you raise feel noticeably different to fight beside and against. Your companions' own loadouts are left as they were, and existing saves load normally — the changes take effect as troops are spawned.
