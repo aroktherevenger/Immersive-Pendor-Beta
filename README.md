@@ -43,8 +43,13 @@ Plans may shift based on feedback and how much time a one-man army can find. Sug
 ## Shout outs
 
 The Prophesy of Pendor development team, whose incredible mod this is built upon.
+
 The original creator and founder of the Prophesy of Pendor mod series Saxondragon
+
 The Warband / PoP tweaking community, whose tweak guides inspired many of the quality-of-life changes.
+
 Freelancer Team for creating amazing mod!
+
 Pendor Rearmed creator for inspiring me on balancing troop changes!
+
 Dalion for supporting me with modding resources.
