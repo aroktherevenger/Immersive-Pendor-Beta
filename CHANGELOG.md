@@ -7,6 +7,15 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
+## [0.36]
+
+### New systems & content
+
+- **You can now switch tournaments between your own gear and standard Prophesy of Pendor rules.** Immersive Pendor has you fight tournaments in your own equipment. If you would rather have the classic experience, a new Camp-menu toggle switches tournaments back to the **standard Prophesy of Pendor setup** — the standardised weapons and team-coloured tunics of unmodified Pendor — and back to your own gear again whenever you like. The choice is remembered per character and takes effect at your next tournament.
+  - *Access:* from the **Camp** menu, click the **"Tournaments: …"** line (just below "POP options") to switch between the two styles.
+
+---
+
 ## [0.35]
 
 ### New systems & content
