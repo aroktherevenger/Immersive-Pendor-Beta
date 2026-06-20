@@ -7,6 +7,19 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
+## [0.37]
+
+### New systems & content
+
+- **Freelancer — train with your own unit between battles.** While enlisted in a lord's warband, you can now spar with one of your comrades-in-arms. Choose which of your unit's soldiers to face and meet them one-on-one in the practice ring with blunted arms; win the bout and you come away with a little hard-earned experience. You can spar once a day, win or lose — enough to keep your blade sharp without turning it into a grind.
+  - *Access:* while enlisted, open the **"What do you need to do, soldier?"** menu and choose **"Spar with a soldier of your unit"**, then pick your opponent.
+
+### Changes
+
+- **Freelancer — your rank is now remembered for each kingdom.** Leaving a lord's service and signing on again used to send you back to the lowest rank every time, even with the same realm. Now your hard-won rank is kept per kingdom: rejoin a lord of a realm you have served before and you resume where you left off, while taking service with a new kingdom still starts you fresh as one of their recruits.
+
+---
+
 ## [0.36]
 
 ### New systems & content
