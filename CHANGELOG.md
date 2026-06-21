@@ -13,6 +13,12 @@ Features list **Access:** — how to actually reach the content in-game.
 - **Freelancer pay now rises with rank.** Each promotion increases your weekly wage by 25%, so climbing the ranks as a soldier is properly rewarded.
 - **New achievement — "Seasoned Sellsword".** Serve a cumulative total of 90 days as an enlisted freelancer (counted across all your enlistments, kept if you leave and sign on again) to earn this achievement and a permanent **+1 Strength**. It unlocks with the usual achievement notice and gets its own entry on your achievements screen. *Access:* enlist with any kingdom lord and keep serving — the reward is granted automatically once your total service reaches 90 days.
 
+### Changes
+- **Honor you earn is increased by 50%.** Every honor *gain* — from quests, conduct in battle, freeing prisoners, and the like — is now boosted by half again (×1.5). Honor losses are unchanged.
+
+### Fixes
+- **Releasing Noldor prisoners no longer grants a broken, astronomical amount of honor.** Freeing captured Noldor — and a couple of other reward conversations, including tournament preparations — used a faulty honor reward that handed out a meaningless, enormous number. You now correctly receive a modest amount of honor for each Noldor Noble you free, as intended.
+
 ---
 
 ## [0.37]
