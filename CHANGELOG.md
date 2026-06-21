@@ -10,6 +10,7 @@ Features list **Access:** — how to actually reach the content in-game.
 ## [0.38]
 
 ### New systems & content
+- **Freelancer pay now rises with rank.** Each promotion increases your weekly wage by 25%, so climbing the ranks as a soldier is properly rewarded.
 - **New achievement — "Seasoned Sellsword".** Serve a cumulative total of 90 days as an enlisted freelancer (counted across all your enlistments, kept if you leave and sign on again) to earn this achievement and a permanent **+1 Strength**. It unlocks with the usual achievement notice and gets its own entry on your achievements screen. *Access:* enlist with any kingdom lord and keep serving — the reward is granted automatically once your total service reaches 90 days.
 
 ---
