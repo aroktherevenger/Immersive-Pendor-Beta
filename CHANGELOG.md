@@ -7,6 +7,13 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
+## [0.38]
+
+### New systems & content
+- **New achievement — "Seasoned Sellsword".** Serve a cumulative total of 90 days as an enlisted freelancer (counted across all your enlistments, kept if you leave and sign on again) to earn this achievement and a permanent **+1 Strength**. It unlocks with the usual achievement notice and gets its own entry on your achievements screen. *Access:* enlist with any kingdom lord and keep serving — the reward is granted automatically once your total service reaches 90 days.
+
+---
+
 ## [0.37]
 
 ### New systems & content
