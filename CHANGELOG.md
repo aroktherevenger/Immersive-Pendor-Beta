@@ -9,6 +9,9 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ## [0.39]
 
+### Changes
+- **Enlisting with a lord now depends on your renown.** Any lord will still hear your offer to take up arms in his service, but the greater the lord, the greater the name he expects of a recruit. A realm's lesser lords take any willing fighter; its middle nobles want 200 renown, its great nobles 300, and its reigning monarch 400. Approach a lord above your standing and he will send you off to win a reputation first. *Access:* speak to any kingdom lord and choose "I wish to take up arms in your service."
+
 ---
 
 ## [0.38]
