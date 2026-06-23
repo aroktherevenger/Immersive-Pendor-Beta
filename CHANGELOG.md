@@ -21,6 +21,7 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ### Fixes
 - **Losing your commander's army no longer leaves you stranded in service.** If the lord you are enlisted under has his party destroyed, your service now ends cleanly and at once — you are released as a free soldier with no penalty, instead of staying bound to a commander who no longer has an army (which also produced a stream of error messages).
+- **Losing a sparring match no longer freezes the result screen.** When you lost a training bout while serving as an enlisted soldier, clicking "Continue" on the result screen did nothing and trapped you there. The screen now returns you to the map correctly whether you win or lose.
 
 ---
 
