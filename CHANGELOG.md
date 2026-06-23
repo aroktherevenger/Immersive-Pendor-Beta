@@ -9,6 +9,9 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ## [0.39]
 
+### New systems & content
+- **Five travelling encounters can now be settled with single combat.** When a Mystmountain raider blocks your road, a banished Singalian warrior crosses your path, the Valkyrie Sisters salute you, a landless Sarleon knight seeks your patronage, or a Veccavi spy offers you silver for your silence, you may now challenge them to a one-on-one duel on the open field. The outcome carries real weight: win or lose, you stand to gain or lose coin, honour, and a kingdom's regard — and besting a true master of arms will even sharpen your own swordsmanship. *Access:* the choice appears as an extra option on those events when they occur as you travel.
+
 ### Changes
 - **Enlisting with a lord now depends on your renown.** Any lord will still hear your offer to take up arms in his service, but the greater the lord, the greater the name he expects of a recruit. A realm's lesser lords take any willing fighter; its middle nobles want 200 renown, its great nobles 300, and its reigning monarch 400. Approach a lord above your standing and he will send you off to win a reputation first. *Access:* speak to any kingdom lord and choose "I wish to take up arms in your service."
 - **Freelancer sparring now happens in the open field, with real weapons.** When you spar with one of your unit's soldiers while enlisted, the bout now takes place on an open training field instead of the town arena, and both of you fight in your own equipment rather than blunted practice arms. It is still a knockout match — nobody is killed — and is still limited to once a day. *Access:* while enlisted, open **"What do you need to do, soldier?"** and choose **"Spar with a soldier of your unit."**
