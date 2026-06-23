@@ -11,6 +11,13 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ### Changes
 - **Enlisting with a lord now depends on your renown.** Any lord will still hear your offer to take up arms in his service, but the greater the lord, the greater the name he expects of a recruit. A realm's lesser lords take any willing fighter; its middle nobles want 200 renown, its great nobles 300, and its reigning monarch 400. Approach a lord above your standing and he will send you off to win a reputation first. *Access:* speak to any kingdom lord and choose "I wish to take up arms in your service."
+- **Freelancer sparring now happens in the open field, with real weapons.** When you spar with one of your unit's soldiers while enlisted, the bout now takes place on an open training field instead of the town arena, and both of you fight in your own equipment rather than blunted practice arms. It is still a knockout match — nobody is killed — and is still limited to once a day. *Access:* while enlisted, open **"What do you need to do, soldier?"** and choose **"Spar with a soldier of your unit."**
+
+### Balance
+- **Freelancer spar experience cut by half.** Winning a daily spar now grants half the experience it did before, so training between battles no longer levels you up unusually fast.
+
+### Fixes
+- **Losing your commander's army no longer leaves you stranded in service.** If the lord you are enlisted under has his party destroyed, your service now ends cleanly and at once — you are released as a free soldier with no penalty, instead of staying bound to a commander who no longer has an army (which also produced a stream of error messages).
 
 ---
 
