@@ -9,6 +9,9 @@ Features list **Access:** â€” how to actually reach the content in-game.
 
 ## [0.40]
 
+### Fixes
+- **Enlisting under a lord no longer inflates his army size or leaves you with a mystery horde.** A bug caused troops defeated in battle, reinforcements, and pursuit parties to be silently absorbed into the enlisted player’s hidden party, making the lord’s displayed strength balloon from its real value to two or three times that. When the lord was then beaten, all those phantom troops vanished at once, and the battle-loss screen could show the enemy holding hundreds of prisoners who were never really there. Fixed: stray troops are now swept out of the player’s attached party continuously while enlisted, and cleanly purged at the moment of discharge or when the lord’s army is destroyed.
+
 ---
 
 ## [0.39]
