@@ -15,6 +15,7 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ### Balance
 - **Reduced the arena's champion-tier victory reward** (renown, gold, and experience all cut roughly in half) **and lowered the maximum tournament bet** from 5000 to 4000 denars.
+- **Attribute points per level reverted to 1 (was 2).** Leveling up now grants a single attribute point (Strength, Agility, Intelligence, or Charisma) per level, matching the original pace.
 
 ### Fixes
 - **Enlisting under a lord no longer inflates his army size or leaves you with a mystery horde.** A bug in how post-battle prisoners and loot were handled while serving as a freelancer meant a leftover batch of troops from an earlier fight kept getting folded into whichever ally you had just fought beside, making his displayed strength balloon to two or three times its real size — then vanish just as suddenly once he was beaten, with the loss screen sometimes showing the enemy holding hundreds of prisoners who were never really there. Fixed at the source, so a lord's numbers now always reflect his actual troops.
