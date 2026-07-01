@@ -10,7 +10,8 @@ Features list **Access:** â€” how to actually reach the content in-game.
 ## [0.40]
 
 ### Fixes
-- **Enlisting under a lord no longer inflates his army size or leaves you with a mystery horde.** A bug caused troops defeated in battle, reinforcements, and pursuit parties to be silently absorbed into the enlisted player’s hidden party, making the lord’s displayed strength balloon from its real value to two or three times that. When the lord was then beaten, all those phantom troops vanished at once, and the battle-loss screen could show the enemy holding hundreds of prisoners who were never really there. Fixed: stray troops are now swept out of the player’s attached party continuously while enlisted, and cleanly purged at the moment of discharge or when the lord’s army is destroyed.
+- **Enlisting under a lord no longer inflates his army size or leaves you with a mystery horde.** A bug in how post-battle prisoners and loot were handled while serving as a freelancer meant a leftover batch of troops from an earlier fight kept getting folded into whichever ally you had just fought beside, making his displayed strength balloon to two or three times its real size — then vanish just as suddenly once he was beaten, with the loss screen sometimes showing the enemy holding hundreds of prisoners who were never really there. Fixed at the source, so a lord's numbers now always reflect his actual troops.
+- **As a freelancer, prisoners and loot after a battle now go to your commander, not you.** Since you're serving under someone else's command, you no longer see the prisoner-capture or loot screens after a fight while enlisted.
 
 ---
 
