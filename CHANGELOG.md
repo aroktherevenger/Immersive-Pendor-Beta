@@ -10,6 +10,7 @@ Features list **Access:** — how to actually reach the content in-game.
 ## [0.40]
 
 ### New systems & content
+- **Companions can now be sent to the Noldor for paid training, using pouches of diamonds.** Once your standing with the Noldor is high enough, you can offer a companion diamonds to fund a stint of training in their halls. A Small Pouch grants a solid burst of experience and a flat boost to every weapon skill; a Medium Pouch grants substantially more of both plus a point each of Strength and Dexterity; a Large Pouch grants the most of all, plus a point each of Strength, Dexterity, Intelligence, and Charisma. The pouches must be sitting in your inventory before the option appears. *Access:* speak to a companion and choose to discuss their training; requires Noldor relation of at least 15 and the relevant pouch of diamonds on hand. *(Tweak by Dimasik & Dalion.)*
 - **Ranged troops that run dry can now be reassigned to another division instead of standing idle.** Archers, crossbowmen, and arquebusiers who empty their ammunition in battle can be automatically shifted into a division of your choosing — infantry, cavalry, wherever you need the extra bodies — rather than lingering uselessly at the back of the field with nothing left to shoot. *Access:* toggle "Reassign archers with empty ammo to division" in the mod options menu. *(Tweak by Vetrogor & Caba'drin.)*
 
 ### Balance
