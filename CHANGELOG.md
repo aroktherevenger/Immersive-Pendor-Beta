@@ -9,6 +9,9 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ## [0.40]
 
+### New systems & content
+- **Ranged troops that run dry can now be reassigned to another division instead of standing idle.** Archers, crossbowmen, and arquebusiers who empty their ammunition in battle can be automatically shifted into a division of your choosing — infantry, cavalry, wherever you need the extra bodies — rather than lingering uselessly at the back of the field with nothing left to shoot. *Access:* toggle "Reassign archers with empty ammo to division" in the mod options menu. *(Tweak by Vetrogor & Caba'drin.)*
+
 ### Balance
 - **Reduced the arena's champion-tier victory reward** (renown, gold, and experience all cut roughly in half) **and lowered the maximum tournament bet** from 5000 to 4000 denars.
 
@@ -16,6 +19,7 @@ Features list **Access:** — how to actually reach the content in-game.
 - **Enlisting under a lord no longer inflates his army size or leaves you with a mystery horde.** A bug in how post-battle prisoners and loot were handled while serving as a freelancer meant a leftover batch of troops from an earlier fight kept getting folded into whichever ally you had just fought beside, making his displayed strength balloon to two or three times its real size — then vanish just as suddenly once he was beaten, with the loss screen sometimes showing the enemy holding hundreds of prisoners who were never really there. Fixed at the source, so a lord's numbers now always reflect his actual troops.
 - **As a freelancer, prisoners and loot after a battle now go to your commander, not you.** Since you're serving under someone else's command, you no longer see the prisoner-capture or loot screens after a fight while enlisted.
 - **Fixed the Diev and Alyssa companion quests not appearing in your journal after accepting them.** A bookkeeping error meant these two quests (and a few related ones) never got properly recorded, so they were silently missing from your quest log even though you had agreed to help. They now appear and track correctly like every other companion quest.
+- *Internal: corrected file-encoding line endings in two data files; no gameplay change.*
 
 ---
 
