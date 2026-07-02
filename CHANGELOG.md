@@ -7,6 +7,10 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
+## [0.41]
+
+---
+
 ## [0.40]
 
 ### New systems & content
