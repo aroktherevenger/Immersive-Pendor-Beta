@@ -7,6 +7,19 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
+## [0.42]
+
+### Fixes
+- **Talking to a captured or hostile lord no longer jumps your relationship with him to the maximum.** A stray reference in the lord-comment dialogue was slamming your standing with such a lord to 100 whenever he remarked on your relationship — including the scornful remarks from cruel or ill-tempered lords, which are meant to *cost* you standing. Those exchanges now shift your relationship as intended.
+- **Alyssa's companion quest, “The Serpent's Shadow,” now shows its journal description, and the tavern Order-rivalry quest starts correctly.** A numbering slip in the companion questlines had shifted several quest hooks by one, so Alyssa's quest tracked with no description telling you what to do, and accepting the tavern rivalry quest mistakenly started the freelancer enlistment quest instead. Every companion-arc quest (Ansen, Rayne, Leslie, Diev, Alyssa, Roland, and the tavern rivalry) now points to the right quest.
+- **Fixed an endless stream of Snowcat raider parties spawning near Rane during Ansen's questline.** The same numbering slip meant the game never registered that it had already spawned the trial raiders, so it kept spawning fresh ones every game-hour — and defeating them never advanced the quest. Now a single raider party appears for the trial, and defeating it moves the quest forward. *(Any surplus parties already spawned into an existing save will remain until you clear them; a new game starts clean.)*
+- *Internal: restored consistent line endings in several data files; no gameplay change.*
+
+### Changes
+- **Defeated unique enemy commanders can no longer be pressed into your service as companions.** When you captured one of the game's unique “named” spawn leaders, a dialogue option let you recruit them into your own company; that option has been removed. Unique spawn leaders can still be ransomed, released on their word of honour, or executed.
+
+---
+
 ## [0.41]
 
 ---
