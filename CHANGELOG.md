@@ -7,6 +7,36 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
+## [0.43]
+
+### Requirements & installation — read this first
+
+**"The Complete Arsenal of Al-Aziz" is now required, and the install order has changed.** Al-Aziz is no longer a separate compatibility patch bolted on the side — its items, weapons and armours, its rune-forge dialogue and its gem-socketing menus are part of Immersive Pendor from this version on. Install these three in this exact order, overwriting when prompted:
+
+1. Prophesy of Pendor v3.9.5 (clean)
+2. The Complete Arsenal of Al-Aziz
+3. Immersive Pendor 0.43 — **always last**
+
+Installing 0.43 *without* Al-Aziz will break the game: our scripts and menus reference items that only Al-Aziz adds. Do not re-install Al-Aziz after step 3 either — it would overwrite Immersive Pendor's dialogue, menus and scripts; if you do, simply copy the 0.43 files over the top again. Do not copy `item_kinds1.txt` from Immersive Pendor either — it is deliberately not in the download, because Al-Aziz's copy from step 2 is the correct one and overwriting it would delete its 78 items. All credit for the Al-Aziz content belongs to its author; none of its files are redistributed here.
+
+**Access:** Azziz's rune-forge shop and its gem-socketing menus, plus the new items appearing in loot and merchant stock.
+
+**Start a new game.** Al-Aziz adds 78 items on top of the changes Immersive Pendor already makes. Saves from 0.42 or earlier will not behave correctly.
+
+### Balance
+
+- **Lord relation rewards rebalanced.** Gains in standing with lords were being boosted twice over by two separate tweaks that stacked on each other, ending up at roughly three times the base game instead of the intended fifty percent more. There is now a single rule: every gain is base game +50%, the same rule honour already used. In practice the dialogue rewards you actually see are unchanged — it was the hidden second multiplier that went away — with two exceptions. Backing a pretender now grants a large boost rather than slamming your standing to the maximum, and the smallest routine lord tasks (deliver a message, collect taxes, raise troops, hunt a fugitive, scout waypoints, meet a spy) go from +2 back to +1. Relation *penalties* are unchanged and remain softer than the base game.
+
+### Quality of life
+
+- **Faction relation messages now tell you where you stand.** They used to report only the swing — *"The Noldor think better of you (+5)"* — so keeping track of your actual standing meant doing it by hand. They now report the resulting figure as well: *"The Noldor think better of you (+5). Now 35."* Handy everywhere, and especially for the Noldor, where the thresholds genuinely gate things. **Access:** the message that appears whenever your standing with a faction changes.
+
+### Fixes
+
+- **Companion quest journals no longer show unrelated text.** Accepting Alyssa's, Diev's or Sir Roland's personal quest put a stray line in the quest notes — usually a faction name such as "The Kingdom of Ravenstern" — where the description of your task should have been. This was left over from the 0.42 quest-numbering repair, which made the three quests appear in the journal but never gave them their opening entry. All three now open with a proper description of what you have been asked to do. Only Alyssa's was reported; Diev's and Sir Roland's carried the same fault and were fixed alongside it. **Access:** the quest notes screen, right after accepting any of the three.
+
+---
+
 ## [0.42]
 
 ### Fixes
