@@ -7,6 +7,20 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
+## [0.44]
+
+### Changes
+
+- **The companion quests have been rewritten by hand.** Players told us the writing in the personal quest lines read as though a machine had produced it — overwrought, straining to sound literary, and with every companion speaking in the same solemn register whether they were a shy field surgeon or a former cultist. All six arcs have been rewritten against each companion's own background, and they now sound like themselves. Ansen is nervous and apologetic and keeps a notebook of every drill he has failed. Sir Rayne is exactly as pompous as his order-knight upbringing suggests, and will explain the difference between "chartered" and "founded" whether or not you asked. Alyssa is dry and practical, misses the snake she used to wear at her collar, and would rather be paid in vegetables. Diev talks like the commoner he is. Sir Roland still cannot accept a gift, because of his vow. Your own replies were rewritten too, so you sound like a captain rather than a herald. Nothing about how the quests work has changed — same steps, same rewards, same outcomes — and existing saves are unaffected. **Access:** speak to Ansen, Sir Rayne, Leslie, Diev, Alyssa or Sir Roland from the party screen once their personal quest has opened.
+
+- **Leslie's story now matches her own history.** Her quest had Singalian slavers destroy the caravan that ruined her, while her background has the Jatu do it. The Jatu now take the caravan and sell the survivors on to a Singalian band, which fits both accounts and changes nothing about where the quest sends you. **Access:** Leslie's opening conversation, and the ledger trail that follows it.
+
+### Fixes
+
+- **Balanli and Azgad start as Sarleon villages again.** The two villages beside Sarleon opened every new campaign under Ravenstern. A correction for this has shipped since 0.31, but it only ran once the first hour of game time had elapsed, so a new campaign always began with the two villages under the wrong crown before they quietly changed hands. The correction now runs the instant the campaign starts. Existing saves keep whatever ownership they already have. **Access:** visible on the world map as soon as a new campaign begins.
+
+---
+
 ## [0.43]
 
 ### Requirements & installation — read this first
