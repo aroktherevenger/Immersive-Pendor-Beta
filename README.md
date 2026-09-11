@@ -8,6 +8,10 @@ This is an **early beta**: I'm a one-man army, so expect rough edges, and bug re
 
 See the full version history in the [changelog](CHANGELOG.md).
 
+## Discord Channel
+
+https://discord.gg/5amz6uSwz
+
 ## Installation instructions
 
 1. Make sure you're on **Prophesy of Pendor v3.9.5** (this exact version).
