@@ -4,7 +4,7 @@
 
 Immersive Pendor is a solo-built overhaul submod for **Prophesy of Pendor** that deepens the roleplay and quality of life of the base mod. It adds new companion storylines, world-map events, and diplomacy options, and smooths out dozens of everyday rough edges, all while staying true to Pendor's tone and lore.
 
-This is an **early beta**: I'm a one-man army, so expect rough edges, and bug reports or feedback are hugely appreciated.
+This is a **beta**: I'm a one-man army bug reports or feedback are hugely appreciated.
 
 See the full version history in the [changelog](CHANGELOG.md).
 
