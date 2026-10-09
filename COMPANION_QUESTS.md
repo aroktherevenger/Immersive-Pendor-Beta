@@ -11,7 +11,7 @@ Six companions have a personal questline: **Ansen**, **Sir Rayne**, **Leslie**, 
 - **"Something on their mind" notice.** When a quest can be started, a message appears once: *"(Name) seems to have something weighing on their mind. You may wish to speak with them."* It only appears while the companion is in your party, and only once per companion.
 - **Reward messages.** When a companion gains skills from their quest, a message names each one, for example *"Alyssa: Power Strike +1."*
 - **Honor and relation numbers.** Immersive Pendor multiplies every honor and relation gain by 1.5 (rounded down). The numbers below are what you actually receive and see on screen.
-- **Quest bands** spawned by these quests are set to hold their position and are not attacked by other parties, so only you can destroy them. Many of them look like ordinary bands of the same type.
+- **Quest bands** you must defeat are set to hold their position and are not attacked by other parties, so only you can destroy them. Many of them look like ordinary bands of the same type.
 - **Timing.** Some steps are checked once per in-game day, so a quest band can take up to a day to appear, and the next step can take up to a day to unlock after you win.
 - **Old saves.** These quests rely on background checks that were added in specific versions. A save started on a version without them may not unlock a quest (not confirmed for every version). A new campaign is the safe choice.
 
@@ -30,7 +30,7 @@ Ansen wants to become a knight. The only order that might take him is the outlaw
 | Choice | Result |
 |---|---|
 | "Frederick does not decide who earns spurs in this company. I do. We start in the morning." | The quest starts. |
-| "Half this company is still walking because of you, Ansen. Keep the tent for now. Ask me again." | **Ends the questline for good** (despite the wording, he will not ask again). Ansen gets **First Aid +1, Surgery +1, Wound Treatment +1** (a message lists them). |
+| "Half this company is still walking because of you, Ansen. Keep the tent. That is my answer, and it will not change." | **Ends the questline for good.** Ansen gets **First Aid +1, Surgery +1, Wound Treatment +1** (a message lists them). |
 
 ### Stage 2: Sir Rayne's sponsorship
 - Recruit Sir Rayne if you have not. With Ansen in your party, talk to Sir Rayne: **"My companion Ansen wishes to take the spurs. Would you stand for him?"**
@@ -39,7 +39,7 @@ Ansen wants to become a knight. The only order that might take him is the outlaw
 
 ### Stage 3: break the Snowcat Raiders
 - Find the Snowcat Raiders near Rane and destroy them. The quest advances within an hour.
-- The journal says Ansen must be in your party when you win. The current version does not actually check this, but bringing him is the safe choice.
+- Ansen does not have to be in your party for the win to count, though Sir Rayne asks for it in his speech.
 
 ### Stage 4: the vigil (choices decide Ansen's reward)
 With Sir Rayne in your party, talk to Ansen: **"It is time, Ansen. Let us hold the vigil. Sir Rayne is ready."** Ansen describes three trials. Each answer adds points to one of five virtues:
@@ -56,16 +56,19 @@ With Sir Rayne in your party, talk to Ansen: **"It is time, Ansen. Let us hold t
 | | "Lower your eyes. She was right to doubt you." | Humility +2 |
 | | "Pity her. She has lost more than she knows." | Mercy +1 |
 
-The virtue with the most points decides Ansen's skill package. Ties go to the first virtue in this order: Courage, Honor, Mercy, Faith, Humility.
+The virtue with the most points decides Ansen's skill package. Ties go to the first virtue in this order: Humility, Courage, Honor, Mercy, Faith.
 
 | Dominant virtue | Ansen gains |
 |---|---|
 | Courage | Power Strike +1, Ironflesh +1, Riding +1 |
 | Honor | Leadership +1, Tactics +1, Trainer +1 |
 | Mercy or Faith | Wound Treatment +1, Surgery +1, First Aid +1 |
-| Humility | Power Strike +1, Leadership +1, First Aid +1 (cannot currently be reached: trial 1 always gives 2 points to another virtue, and Humility loses every tie) |
+| Humility | Power Strike +1, Leadership +1, First Aid +1 |
 
-In practice: your trial 1 answer picks the package. The only way to change it later is "Break the vigil. Treat him." plus "Pity her.", which gives Mercy 3 and turns a Courage or Honor vigil into the healer package.
+In practice:
+- **Humility:** answer "Lower your eyes." in trial 3. This gives Humility unless you also picked "Stay kneeling." and "Pray for him." (healer package) or "Speak to him without rising." and "Refuse." (Honor package).
+- **Otherwise your trial 1 answer picks the package:** "Stand and face him." gives Courage, "Speak to him without rising." gives Honor, "Stay kneeling." gives the healer package.
+- "Break the vigil. Treat him." plus "Pity her." gives Mercy 3 and turns a Courage or Honor vigil into the healer package.
 
 ### Stage 5: the dubbing
 With Ansen in your party, talk to Sir Rayne: **"He has stood your vigil."** Rayne knights him.
@@ -97,7 +100,7 @@ Sir Rayne wants to win back the standing of the Order of the Falcon, which still
 | Choice | Result |
 |---|---|
 | "Properly it is, then. Where does a chartered order begin?" | The quest starts. |
-| "The Falcon died with its honour intact, Sir Rayne. Leave it there." | Relation with Sir Rayne **+3**. The quest does not start, and in the current version the option stays available, so you can still accept later. |
+| "The Falcon died with its honour intact, Sir Rayne. Leave it there." | Relation with Sir Rayne **+3**. **The questline ends for good**; the offer does not come back. |
 
 ### Stage 1: win a tournament
 - Win a tournament in **any town** after accepting. The quest advances within an hour.
@@ -125,7 +128,8 @@ Talk to Sir Rayne: **"Sir Rayne. It is time."** Choose the code of the restored 
 - The quest is completed.
 
 ### Ways to lock yourself out
-None found. Every step has an option that is always available.
+- Declining Sir Rayne's first offer ends the questline permanently.
+- After that, every step has an option that is always available.
 
 ---
 
@@ -151,23 +155,23 @@ Leslie lost a caravan and her kin to raiders on the road from Singal to Janos. S
 | Choice | Needs | Cost |
 |---|---|---|
 | "Three thousand for the book. Done." | 3000 denars | -3000 denars |
-| "Leslie reads his book before he can shut it... One thousand, and we take the ledger." | 1000 denars | -1000 denars |
+| "Leslie reads his book before he can shut it... One thousand, and we take the ledger." | 1000 denars and your own Trade skill 4 or more | -1000 denars |
 | "Then I will take the book off him another way." | nothing | free; a band appears near Singal, but fighting it is optional |
 
-All three get you the ledger right away. (In the current version the band that appears is The Veccavian Renegades rather than Singalian slavers, which looks like a bug.) The 1000 denar option has no skill check in the current version, so it is always the cheaper paid choice.
+All three get you the ledger right away. The 1000 denar option checks your own Trade skill (not Leslie's or the party's). The band from the third option is a Singalian Slavers band.
 
 ### Stage 3: the reckoning (a permanent choice)
 Talk to Leslie: **"What does the book tell us, Leslie?"** Three captives from her caravan are still alive.
 
 | Choice | Result |
 |---|---|
-| "We go and get them. All three, or we do not come back." | Honor **+1**, relation with Leslie **+3**. A band appears near Singal (currently The Veccavian Renegades); fighting it is optional and the quest ends either way. |
-| "Five thousand denars. Put your road back together, Leslie..." (only shown with 5000 denars) | **-5000 denars**. Afterwards you receive **200 denars every 14 days** while Leslie is in your party, until a total of **5000** has been paid back (25 payments). |
+| "We go and get them. All three, or we do not come back." | Honor **+1**, relation with Leslie **+3**. A Singalian Slavers band appears near Singal; fighting it is optional and the quest ends either way. |
+| "Five thousand denars. Put your road back together, Leslie..." (only shown with 5000 denars) | **-5000 denars**. Afterwards you receive **300 denars every 14 days** while Leslie is in your party, until a total of **7500** has been paid (25 payments, a profit of 2500). A message announces each payment. |
 | "Close the book, Leslie. Some things do not get paid back." | Relation with Leslie **+1**. |
 
 The quest is completed with any choice.
 
-**Total cost:** 2000 denars, plus 0, 1000 or 3000 at Singal, plus 5000 if you choose to fund her caravan (which you get back over time).
+**Total cost:** 2000 denars, plus 0, 1000 or 3000 at Singal, plus 5000 if you choose to fund her caravan (which pays back 7500 over time).
 
 ### Ways to lock yourself out
 None found. If Leslie leaves your party, the next step waits until you take her back.
@@ -188,7 +192,7 @@ Diev wants to destroy the Mystmountain band that killed his birth parents. He wa
 | "Not today, Diev. It will keep, and so will I." | The offer comes back after another **30 days**. |
 
 ### Stage 1: ask Larissa in Rane
-The journal says to seek the band in the Cloudmists north of Rane, but the band does **not** appear until you have done this step:
+The band does **not** appear until you have done this step (the journal says so too):
 - With Diev in your party, go to **Rane**, enter the tavern and talk to **Larissa**, the tavern keeper: "Mistress, a word. I seek news of a Mystmountain raiding band north of here..."
 - Any answer works:
   - "Then tell me what a woman in your trade hears first..." (only shown if your own Persuasion is 5 or more)
@@ -210,7 +214,7 @@ Talk to Diev: **"Diev. It is done. What would you have us do now?"**
 The quest is completed with either choice.
 
 ### Ways to lock yourself out
-None found. The journal does not mention Larissa, so this is the step players most often miss.
+None found.
 
 ---
 
@@ -243,8 +247,6 @@ Talk to Alyssa: **"The shrine is silent now, Alyssa."** Answer "Keep the armour.
 - Honor **+3**, relation with Alyssa **+7**.
 - You gain **1000 experience**.
 - The quest is completed.
-
-The journal keeps showing the stage 1 text for the whole quest; use this guide for the later steps.
 
 ### Ways to lock yourself out
 None found.
@@ -279,8 +281,6 @@ Talk to Sir Roland: **"The priestess is dead, Sir Roland. It is over."** Answer 
 - Honor **+3**, relation with Sir Roland **+7**.
 - You gain **1000 experience**.
 - The quest is completed.
-
-The journal keeps showing the stage 1 text for the whole quest.
 
 ### Ways to lock yourself out
 None found.
