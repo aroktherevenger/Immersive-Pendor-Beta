@@ -45,6 +45,8 @@ Immersive Pendor now has a main story. It starts from the merchant whose relativ
 
 - **Sieges no longer get stuck on enemies you can't reach.** Sometimes the last few defenders (or attackers) ended up on a tower top or wall corner nobody could path to, and the battle could only be finished with cheats or auto-resolve. Now, if no enemy has fallen for a full minute and 15 or fewer are left, the stragglers are driven back into the fight next to your troops, and a message tells you so. **Access:** automatic in every castle and town siege, whether you attack or defend.
 
+- **Companion rewards tell you exactly what was gained.** Finishing a companion's personal quest used to say only that they had "grown more skilled". The message now names every skill, for example *"Alyssa: Power Strike +1."* or *"Sir Ansen: Power Strike +1, Ironflesh +1, Riding +1."*, and the two rewards that were silent (Ansen's healer ending and Diev's rite) now show theirs too. The experience message at the end of these quests also showed the wrong number (often "3") and now shows the real 1000. **Access:** the end of each companion's personal quest.
+
 ---
 
 ## [0.43]
