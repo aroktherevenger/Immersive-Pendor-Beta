@@ -37,6 +37,8 @@ Immersive Pendor now has a main story. It starts from the merchant whose relativ
 
 - **Rescued prisoners join you based on who you are (community Tweak 17i).** After a battle, whether a stack of freed prisoners will join depends on your level, your Persuasion, and how their faction regards you, compared with the troops' own level. Your own faction's soldiers and anyone level 15 or below will always join. A good Persuasion roll can win over a whole stack, and those who refuse can often be taken prisoner instead. This finally lets you recruit freed Noldor if they think well of you. It applies to you only; AI lords recruit their prisoners as before. **Access:** the screen after a battle where you free prisoners.
 
+- **The Pendor Royal Steed is worth its Riding 9.** It asked for more Riding skill than any other ordinary horse but was outclassed by the Noldor Spirit Horse, the Jatu Warbeast and the Desert War Horse. It is now as fast as the Jatu Warbeast (speed 41, was 39), handles better (maneuver 38, was 35) and hits harder in a charge (52, was 48), on top of the heaviest armor and most hit points of any normal horse. **Access:** the Royal Steed wherever it is sold; ones you already own get the new stats too.
+
 ### Fixes
 
 - **Balanli and Azgad start as Sarleon villages again.** The two villages beside Sarleon opened every new campaign under Ravenstern. A correction for this has shipped since 0.31, but it only ran once the first hour of game time had elapsed, so a new campaign always began with the two villages under the wrong crown before they quietly changed hands. The correction now runs the instant the campaign starts. Existing saves keep whatever ownership they already have. **Access:** visible on the world map as soon as a new campaign begins.
