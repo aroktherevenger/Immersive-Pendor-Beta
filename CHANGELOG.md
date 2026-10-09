@@ -43,6 +43,8 @@ Immersive Pendor now has a main story. It starts from the merchant whose relativ
 
 - **Balanli and Azgad start as Sarleon villages again.** The two villages beside Sarleon opened every new campaign under Ravenstern. A correction for this has shipped since 0.31, but it only ran once the first hour of game time had elapsed, so a new campaign always began with the two villages under the wrong crown before they quietly changed hands. The correction now runs the instant the campaign starts. Existing saves keep whatever ownership they already have. **Access:** visible on the world map as soon as a new campaign begins.
 
+- **Sieges no longer get stuck on enemies you can't reach.** Sometimes the last few defenders (or attackers) ended up on a tower top or wall corner nobody could path to, and the battle could only be finished with cheats or auto-resolve. Now, if no enemy has fallen for a full minute and 15 or fewer are left, the stragglers are driven back into the fight next to your troops, and a message tells you so. **Access:** automatic in every castle and town siege, whether you attack or defend.
+
 ---
 
 ## [0.43]
