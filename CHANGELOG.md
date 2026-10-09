@@ -25,6 +25,10 @@ Immersive Pendor now has a main story. It starts from the merchant whose relativ
 
 - **Leslie's story now matches her own history.** Her quest had Singalian slavers destroy the caravan that ruined her, while her background has the Jatu do it. The Jatu now take the caravan and sell the survivors on to a Singalian band, which fits both accounts and changes nothing about where the quest sends you. **Access:** Leslie's opening conversation, and the ledger trail that follows it.
 
+### Balance
+
+- **Tournament betting is capped at 2500 denars.** The largest bet was 4000, eight times the base game's limit of 500. With the doubled tournament prize on top, a few tournaments could set you up for good. The smaller bets are unchanged. **Access:** the betting option in the tournament menu.
+
 ### Fixes
 
 - **Balanli and Azgad start as Sarleon villages again.** The two villages beside Sarleon opened every new campaign under Ravenstern. A correction for this has shipped since 0.31, but it only ran once the first hour of game time had elapsed, so a new campaign always began with the two villages under the wrong crown before they quietly changed hands. The correction now runs the instant the campaign starts. Existing saves keep whatever ownership they already have. **Access:** visible on the world map as soon as a new campaign begins.
