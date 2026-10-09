@@ -29,6 +29,8 @@ Immersive Pendor now has a main story. It starts from the merchant whose relativ
 
 - **Tournament betting is capped at 2500 denars.** The largest bet was 4000, eight times the base game's limit of 500. With the doubled tournament prize on top, a few tournaments could set you up for good. The smaller bets are unchanged. **Access:** the betting option in the tournament menu.
 
+- **The Looting skill matters much more.** At 10 Looting you get exactly the battle loot you got before, but every point below 10 now costs far more. Before, 0 Looting still brought in half as much as 10. Now each missing point costs about a tenth of the loot, so 9 Looting gets 91%, 5 gets 55% and 0 gets 10%. Looting above 10 is unchanged. **Access:** the loot screen after any battle you win; raise Looting on yourself or a companion in the party.
+
 ### Fixes
 
 - **Balanli and Azgad start as Sarleon villages again.** The two villages beside Sarleon opened every new campaign under Ravenstern. A correction for this has shipped since 0.31, but it only ran once the first hour of game time had elapsed, so a new campaign always began with the two villages under the wrong crown before they quietly changed hands. The correction now runs the instant the campaign starts. Existing saves keep whatever ownership they already have. **Access:** visible on the world map as soon as a new campaign begins.
