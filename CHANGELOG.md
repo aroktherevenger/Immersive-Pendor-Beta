@@ -55,6 +55,8 @@ Immersive Pendor now has a main story. It starts from the merchant whose relativ
 
 - **Companion quests: nine fixes found while writing the guide.** Declining Sir Rayne's request now ends his questline instead of letting you ask again for more relation. Leslie's optional fight now spawns the Singalian slavers the story describes. Alyssa's, Sir Roland's and Diev's journals now update as the quests move on, and Diev's points you to Larissa in Rane, where the next step actually starts. Ansen's quieter ending no longer promises he will ask again, his Humility reward can now be earned, and his journal no longer insists he be present for the Snowcat fight. In Leslie's quest, the 1000 denar option now needs Trade 4, and her 5000 denar investment pays back 7,500 (300 every two weeks) with a message each time. **Access:** each companion's personal quest; see the companion quest guide for details.
 
+- **Three older bugs fixed by a full code audit.** Villages with a Blacksmith or a School now give their promised bonus to how fast volunteers upgrade (it never applied). Your bodyguards now behave correctly when you visit a castle (the fix only worked in towns). And Leslie's quest journal and the tavern keeper now agree with her story: the Jatu took her caravan and sold the survivors to Singalian slavers. **Access:** village recruits, castle visits, and Leslie's personal quest.
+
 ## [0.43]
 
 ### Requirements & installation — read this first
