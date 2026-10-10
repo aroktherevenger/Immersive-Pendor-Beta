@@ -7,6 +7,18 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
+## [0.44a] — hotfix
+
+Bug fixes on top of 0.44. Install it the same way, copying it over your current files and letting it overwrite. Existing 0.44 saves keep working; no new game needed.
+
+### Fixes
+
+- **Two random events gave you the wrong man.** Binding the shipwrecked Vanskerry for ransom gave you the companion Sir Alistair as a prisoner, who could not be sold. You now get the Vanskerry Marauder the event describes. Hiring the banished Singalian gave you a village farmer; you now get a Singalian Spearman. If Sir Alistair is already in your prisoner list, you can release him. **Access:** the "lone Vanskerry" and "banished Singalian" random events on the world map.
+
+- **Three older bugs fixed by a full code audit.** Villages with a Blacksmith or a School now give their promised bonus to how fast volunteers upgrade (it never applied). Your bodyguards now behave correctly when you visit a castle (the fix only worked in towns). And Leslie's quest journal and the tavern keeper now agree with her story: the Jatu took her caravan and sold the survivors to Singalian slavers. **Access:** village recruits, castle visits, and Leslie's personal quest.
+
+---
+
 ## [0.44]
 
 ### New: the Main Story begins (Chapters 1 and 2)
@@ -49,13 +61,9 @@ Immersive Pendor now has a main story. It starts from the merchant whose relativ
 
 - **Companion rewards tell you exactly what was gained.** Finishing a companion's personal quest used to say only that they had "grown more skilled". The message now names every skill, for example *"Alyssa: Power Strike +1."* or *"Sir Ansen: Power Strike +1, Ironflesh +1, Riding +1."*, and the two rewards that were silent (Ansen's healer ending and Diev's rite) now show theirs too. The experience message at the end of these quests also showed the wrong number (often "3") and now shows the real 1000. **Access:** the end of each companion's personal quest.
 
-- **Two random events gave you the wrong man.** Binding the shipwrecked Vanskerry for ransom gave you the companion Sir Alistair as a prisoner, who could not be sold. You now get the Vanskerry Marauder the event describes. Hiring the banished Singalian gave you a village farmer; you now get a Singalian Spearman. If Sir Alistair is already in your prisoner list, you can release him. **Access:** the "lone Vanskerry" and "banished Singalian" random events on the world map.
-
----
-
 - **Companion quests: nine fixes found while writing the guide.** Declining Sir Rayne's request now ends his questline instead of letting you ask again for more relation. Leslie's optional fight now spawns the Singalian slavers the story describes. Alyssa's, Sir Roland's and Diev's journals now update as the quests move on, and Diev's points you to Larissa in Rane, where the next step actually starts. Ansen's quieter ending no longer promises he will ask again, his Humility reward can now be earned, and his journal no longer insists he be present for the Snowcat fight. In Leslie's quest, the 1000 denar option now needs Trade 4, and her 5000 denar investment pays back 7,500 (300 every two weeks) with a message each time. **Access:** each companion's personal quest; see the companion quest guide for details.
 
-- **Three older bugs fixed by a full code audit.** Villages with a Blacksmith or a School now give their promised bonus to how fast volunteers upgrade (it never applied). Your bodyguards now behave correctly when you visit a castle (the fix only worked in towns). And Leslie's quest journal and the tavern keeper now agree with her story: the Jatu took her caravan and sold the survivors to Singalian slavers. **Access:** village recruits, castle visits, and Leslie's personal quest.
+---
 
 ## [0.43]
 
