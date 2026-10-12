@@ -9,6 +9,10 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ## [0.45] — in progress
 
+### New: decapitations in battle
+
+- **A killing cut to the head, neck or shoulders can now take an enemy's head off.** Their helmet drops to the ground and the head lies on the field for about half a minute before it fades. Soldiers near the victim on his own side lose some nerve. It only happens to ordinary male and elven soldiers killed by a cutting melee weapon, never to lords, companions, women or the undead. When you are the one swinging, it is more likely on horseback, with Strength 15 or more, with Power Strike 7 or more, and with a two-handed weapon. A good helmet makes it less likely. Ported from *A World of Ice and Fire*. Existing saves keep working. **Access:** field battles, sieges, village fights and bandit lairs. It is on by default; turn it off or back on from the Camp menu ("Battle gore").
+
 ---
 
 ## [0.44a] — hotfix
