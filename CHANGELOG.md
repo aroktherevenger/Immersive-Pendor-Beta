@@ -17,6 +17,10 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **A hard enough crossbow bolt now goes straight through a shield.** Most bolts in PoP could already do this, and now every real crossbow can as well. The bar stays where PoP set it: the shot has to beat 30 plus three times the shield's rating, so light crossbows rarely get through a good shield while the heaviest ones often do. Practice and tournament crossbows are unchanged. Idea taken from Perisno. Existing saves keep working. **Access:** any battle with crossbows, for you, your troops and your enemies.
 
+### Hidden camp: room for more soldiers
+
+- **The hidden camp from the Old Tale quests can now hold up to 200 soldiers.** After you have paid for the bigger barracks, the Camp Master offers two more expansions: clearing the old cellars under the keep for 25,000 denars (150 soldiers), and then a timber hall on the terrace below the ruins for 40,000 denars (200 soldiers). Resting at the camp still halves your troops' wages as before. Existing saves keep working. **Access:** at the hidden camp, Speak with the Camp Master, then "Could we make some additions here?" once the bigger barracks are built.
+
 ---
 
 ## [0.44a] — hotfix
