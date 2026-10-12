@@ -7,6 +7,10 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
+## [0.45] — in progress
+
+---
+
 ## [0.44a] — hotfix
 
 Bug fixes on top of 0.44. Install it the same way, copying it over your current files and letting it overwrite. Existing 0.44 saves keep working; no new game needed.
