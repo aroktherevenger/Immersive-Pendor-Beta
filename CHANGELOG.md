@@ -13,6 +13,10 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **A killing cut to the head, neck or shoulders can now take an enemy's head off.** Their helmet drops to the ground and the head lies on the field for about half a minute before it fades. It is purely cosmetic and does not affect morale or anything else in the battle. It only happens to ordinary male and elven soldiers killed by a cutting melee weapon, never to lords, companions, women or the undead. When you are the one swinging, it is more likely on horseback, with Strength 15 or more, with Power Strike 7 or more, and with a two-handed weapon. A good helmet makes it less likely. Ported from *A World of Ice and Fire*. Existing saves keep working. **Access:** field battles, sieges, village fights and bandit lairs. It is on by default; turn it off or back on from the Camp menu ("Battle gore").
 
+### Crossbows pierce shields
+
+- **A hard enough crossbow bolt now goes straight through a shield.** Most bolts in PoP could already do this, and now every real crossbow can as well. The bar stays where PoP set it: the shot has to beat 30 plus three times the shield's rating, so light crossbows rarely get through a good shield while the heaviest ones often do. Practice and tournament crossbows are unchanged. Idea taken from Perisno. Existing saves keep working. **Access:** any battle with crossbows, for you, your troops and your enemies.
+
 ---
 
 ## [0.44a] — hotfix
