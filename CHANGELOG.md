@@ -19,7 +19,7 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ### Hidden camp: room for more soldiers
 
-- **The hidden camp from the Old Tale quests can now hold up to 200 soldiers.** After you have paid for the bigger barracks, the Camp Master offers two more expansions: clearing the old cellars under the keep for 25,000 denars (150 soldiers), and then a timber hall on the terrace below the ruins for 40,000 denars (200 soldiers). Resting at the camp still halves your troops' wages as before. Existing saves keep working. **Access:** at the hidden camp, Speak with the Camp Master, then "Could we make some additions here?" once the bigger barracks are built.
+- **The hidden camp from the Old Tale quests can now hold up to 250 soldiers.** After you have paid for the bigger barracks, the Camp Master offers two more expansions: clearing the old cellars under the keep for 25,000 denars (150 soldiers), and then a timber hall on the terrace below the ruins for 40,000 denars (250 soldiers). Resting at the camp still halves your troops' wages as before. Existing saves keep working. **Access:** at the hidden camp, Speak with the Camp Master, then "Could we make some additions here?" once the bigger barracks are built.
 
 ---
 
