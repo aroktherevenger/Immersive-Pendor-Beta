@@ -21,6 +21,10 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **The hidden camp from the Old Tale quests can now hold up to 250 soldiers.** After you have paid for the bigger barracks, the Camp Master offers two more expansions: clearing the old cellars under the keep for 25,000 denars (150 soldiers), and then a timber hall on the terrace below the ruins for 40,000 denars (250 soldiers). Resting at the camp still halves your troops' wages as before. Existing saves keep working. **Access:** at the hidden camp, Speak with the Camp Master, then "Could we make some additions here?" once the bigger barracks are built.
 
+### Two Noldor ladies you can marry (Tweak 17y)
+
+- **Iranith and Elasai now live at Elacrai and can be courted like other ladies.** Iranith is under Sadren's protection and Elasai under Calanon's. No other suitor can take them, you do not need permission to visit them, and there is no dowry. Once married, you can ask your wife once a week whether her father can spare some troops: 1 to 5 Noldor Hunters, Maiden Rangers or, rarely, Twilight Knights. Tweak by Countyboar. **Needs a new game**: on an existing save the two ladies never appear. **Access:** at Elacrai, "Attempt to visit a lady", or ask Sadren or Calanon for their daughter's hand.
+
 ---
 
 ## [0.44a] — hotfix
