@@ -7,7 +7,7 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
-## [0.45] — in progress
+## [0.45]
 
 ### New: decapitations in battle
 
