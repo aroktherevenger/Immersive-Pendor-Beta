@@ -10,7 +10,7 @@ See the full version history in the [changelog](CHANGELOG.md).
 
 ## Download
 
-Download the latest **Immersive Pendor** release from **Nexus Mods**. You also need **[The Complete Arsenal of Al-Aziz](https://www.nexusmods.com/mbwarband/mods/6315)**, a separate download from its author. See the installation steps below.
+Download the latest **Immersive Pendor** release from **[Nexus Mods](https://www.nexusmods.com/mbwarband/mods/6794)**. You also need **[The Complete Arsenal of Al-Aziz](https://www.nexusmods.com/mbwarband/mods/6315)**, a separate download from its author. See the installation steps below.
 
 ## Discord Channel
 
@@ -28,7 +28,7 @@ Recommended: install it as its own module, so vanilla PoP and your existing save
 
 1. In your `Mount&Blade Warband\Modules\` folder, copy the whole `Prophesy of Pendor V3.9.5` folder and rename the copy (e.g. `Immersive Pendor 0.45`). The launcher labels each module by its folder name.
 2. Install **[The Complete Arsenal of Al-Aziz](https://www.nexusmods.com/mbwarband/mods/6315)** into that new folder, overwriting when prompted. Don't skip this — the mod needs its items.
-3. Copy everything in the Immersive Pendor download from Nexus into that same folder, overwriting when prompted. Keep the folder structure: `Resource\`, `Textures\`, `Sounds\` and `languages\en\` go into the matching subfolders. This also replaces `item_kinds1.txt` and `Resource\ACOK_other.brf`, which is intended.
+3. Copy everything in the Immersive Pendor download from [Nexus](https://www.nexusmods.com/mbwarband/mods/6794) into that same folder, overwriting when prompted. Keep the folder structure: `Resource\`, `Textures\`, `Sounds\` and `languages\en\` go into the matching subfolders. This also replaces `item_kinds1.txt` and `Resource\ACOK_other.brf`, which is intended.
 4. Launch Warband, pick the module, and **start a new game**. Saves from unmodified PoP or from older Immersive Pendor versions may break, because indices changed.
 
 **Don't re-install Al-Aziz after step 3.** It would overwrite Immersive Pendor's items, dialog, menus and scripts. If that happens, copy the Immersive Pendor folder over the top again.
