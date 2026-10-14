@@ -25,6 +25,25 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Iranith and Elasai now live at Elacrai and can be courted like other ladies.** Iranith is under Sadren's protection and Elasai under Calanon's. No other suitor can take them, you do not need permission to visit them, and there is no dowry. Once married, you can ask your wife once a week whether her father can spare some troops: 1 to 5 Noldor Hunters, Maiden Rangers or, rarely, Twilight Knights. Tweak by Countyboar. **Needs a new game**: on an existing save the two ladies never appear. **Access:** at Elacrai, "Attempt to visit a lady", or ask Sadren or Calanon for their daughter's hand.
 
+### Firearms pack (Tweak 18f)
+
+- **Three new guns: the Matchlock Musket, the Blunderbuss and a four-shot Flintlock Pistol.** Each can be swung as a melee weapon too, and the Blunderbuss fires a spread of shot. They come with their own gunshot sounds, muzzle flash and smoke, and a better bullet model. A gun's tooltip now shows its missile speed and how many shots it has before it must reload. They are rare in shops, and bullets now turn up for sale too. Your Custom Knight Order war room gains a "Pistols" category, and taking Rufio's pile of diamonds also unlocks the three guns for your order. Models by Llew2 (OSP), code by Dalion. **Needs a new game.** **Access:** weapon merchants (rare), and your CKO war room once Rufio's diamonds unlock them.
+
+### New crossbow and a restored Siege Crossbow (Tweak 18c)
+
+- **The Siege Crossbow has its old v3.7 look back, and a new Ebon Crossbow with Ebony Bolts sits between it and the Mettenheim Arbalest.** Like every other crossbow, the Ebon Crossbow can punch through shields. The Knights of the Ebony Gauntlet and Plaguewardens keep their Mettenheim Arbalests, which are already stronger than the Ebon Crossbow. **Access:** weapon merchants.
+
+### New armour (Tweaks 18d and 18e)
+
+- **Kraken Plate, a second heavy armour for the Kraken Riddari (Tweak 18d).** The Riddari now wear it alongside their Kraken Platemail. By Baltic Marauder and lconracl. **Access:** Kraken Riddari, and armour merchants.
+- **Pendor's troops lose their heraldic armour (Tweak 18e).** Heraldic armour clashed badly with bright banners, so every Pendor troop that wore it now wears a dark equivalent instead. Three new armours were added for this: Black Brigandine, Dark Mail and Plate, and Black Mail and Plate. Six existing dark armours were re-balanced to fit, and the Mounted Man-at-Arms gets the tailed Visored Bascinet. By Dare2Die. **Access:** Pendor troops, and armour merchants.
+
+### Noldor tournament notice (Tweak 7b)
+
+- **You now get a message when a Noldor tournament begins at Elacrai,** so you no longer miss one by losing track of the date. By BananaFruit. **Access:** automatic.
+
+Tweak 1i, the regular messages about where unique spawns and minor faction armies are, was already part of Immersive Pendor.
+
 ---
 
 ## [0.44a] — hotfix
