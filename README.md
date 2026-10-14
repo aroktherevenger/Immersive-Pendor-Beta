@@ -57,3 +57,11 @@ Freelancer Team for creating amazing mod!
 Pendor Rearmed creator for inspiring me on balancing troop changes!
 
 Dalion for supporting me with modding resources.
+
+The author of The Complete Arsenal of Al-Aziz, a required base layer of Immersive Pendor.
+
+The community tweak authors from the Prophesy of Pendor wiki "Tweaks" page: Dalion, Leonion, VonDegurechaff, BananaFruit, Vetrogor, Countyboar, TheMageLord, Alex Toews, Caba'drin, Timon, Swadia Nutt, Hardrada, Damon, Tingyun, rubik, Dimasik, Dare2Die, Baltic Marauder and lconracl, and the wiki editors who maintain the page.
+
+Llew2 (OSP) for the firearm models, and Dalion for the firearm code (Tweak 18f).
+
+The Dismemberment Mod Kit for the decapitation effects, sounds and head model, and Davee of the Vikingr mod for the decapitation.
