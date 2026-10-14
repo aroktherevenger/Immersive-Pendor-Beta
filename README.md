@@ -10,7 +10,7 @@ See the full version history in the [changelog](CHANGELOG.md).
 
 ## Download
 
-Download the latest **Immersive Pendor** release from **[Nexus Mods](https://www.nexusmods.com/mbwarband/mods/6794)**. You also need **[The Complete Arsenal of Al-Aziz](https://www.nexusmods.com/mbwarband/mods/6315)**, a separate download from its author. See the installation steps below.
+Download the latest **Immersive Pendor** release from **[Nexus Mods](https://www.nexusmods.com/mbwarband/mods/6794)**. You also need **[Prophesy of Pendor v3.9.5](https://www.nexusmods.com/mbwarband/mods/3710)** and **[The Complete Arsenal of Al-Aziz](https://www.nexusmods.com/mbwarband/mods/6315)**, separate downloads from their authors. See the installation steps below.
 
 ## Discord Channel
 
@@ -20,7 +20,7 @@ https://discord.gg/5amz6uSwz
 
 Install in this exact order, overwriting when prompted:
 
-1. **Prophesy of Pendor v3.9.5** (clean, this exact version)
+1. **[Prophesy of Pendor v3.9.5](https://www.nexusmods.com/mbwarband/mods/3710)** (clean, this exact version)
 2. **The Complete Arsenal of Al-Aziz**
 3. **Immersive Pendor** (the latest release folder) — always last
 
@@ -45,7 +45,7 @@ Recommended: install it as its own module, so vanilla PoP and your existing save
 ## Requirements
 
 - Mount & Blade: Warband
-- **Prophesy of Pendor v3.9.5** (required)
+- **[Prophesy of Pendor v3.9.5](https://www.nexusmods.com/mbwarband/mods/3710)** (required)
 - **[The Complete Arsenal of Al-Aziz](https://www.nexusmods.com/mbwarband/mods/6315)** (required — install it before Immersive Pendor)
 - WSE2 recommended (used in development) but not required — runs on standard Warband too.
 
