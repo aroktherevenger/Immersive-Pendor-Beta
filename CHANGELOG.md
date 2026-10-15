@@ -7,6 +7,14 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
+## [0.45a] — hotfix
+
+### Fixes
+
+- **Decapitated soldiers now die.** A decapitating blow could deal no damage at all, so the soldier kept walking or riding around without a head. The blow now does its full, killing damage. Thanks to the player who sent in a video of it. Existing saves keep working. **Access:** any battle with decapitations switched on (Camp menu, "Battle gore").
+
+---
+
 ## [0.45]
 
 ### New: decapitations in battle
