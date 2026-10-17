@@ -7,6 +7,14 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
+## [0.45b] — hotfix
+
+### Fixes
+
+- **Your head and neck hits no longer sometimes do nothing.** When you landed a killing blow to an enemy's head, neck or shoulders and it didn't take his head off, the blow could deal no damage at all. This was the real cause behind the headless soldiers too: 0.45a only fixed the case where the head came off. Every hit now does its full damage. Tested in battle before release. Existing saves keep working. **Access:** any battle; it applies whether "Battle gore" in the Camp menu is on or off.
+
+---
+
 ## [0.45a] — hotfix
 
 ### Fixes
