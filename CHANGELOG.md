@@ -15,6 +15,8 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Captured kings can be asked for peace every time you talk to them.** The "Grant me peace between our kingdoms" offer showed up when you first spoke to a captured enemy king, but disappeared if you talked to anyone else before going back to him. It now always appears while the rules allow it: you are a king, he is a king, your kingdoms are at war, and he hasn't refused you in the last week. Existing saves keep working. **Access:** party screen → your prisoners → talk to a captured enemy king.
 
+- **No more endless loop when following your lord into a siege.** While enlisted, following your commander into a siege battle could send you to "Pass through the siege lines" over and over, with no way out of the menus. You now go straight to your lord's side: the besiegers' camp if he is attacking, or the defenders if he is holding the town. Existing saves keep working. **Access:** enlisted with a lord → "Follow your commander into battle" while he besieges or defends a town or castle.
+
 ---
 
 ## [0.45b] — hotfix
