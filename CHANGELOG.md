@@ -13,6 +13,8 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Companion quest bands no longer hide inside towns.** Sir Roland's cultists near Janos, Alyssa's bands near Janos and Cez, and Diev's raiders near Rane used to spawn right on top of the town, so clicking them selected the town instead. They now wait on open ground just outside the walls. If one is already stuck inside a town in your save, it moves out within a day. Existing saves keep working. **Access:** Sir Roland's, Alyssa's and Diev's personal quests.
 
+- **Captured kings can be asked for peace every time you talk to them.** The "Grant me peace between our kingdoms" offer showed up when you first spoke to a captured enemy king, but disappeared if you talked to anyone else before going back to him. It now always appears while the rules allow it: you are a king, he is a king, your kingdoms are at war, and he hasn't refused you in the last week. Existing saves keep working. **Access:** party screen → your prisoners → talk to a captured enemy king.
+
 ---
 
 ## [0.45b] — hotfix
