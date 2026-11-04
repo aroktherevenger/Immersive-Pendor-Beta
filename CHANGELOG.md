@@ -7,6 +7,14 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
+## [0.46]
+
+### Fixes
+
+- **Companion quest bands no longer hide inside towns.** Sir Roland's cultists near Janos, Alyssa's bands near Janos and Cez, and Diev's raiders near Rane used to spawn right on top of the town, so clicking them selected the town instead. They now wait on open ground just outside the walls. If one is already stuck inside a town in your save, it moves out within a day. Existing saves keep working. **Access:** Sir Roland's, Alyssa's and Diev's personal quests.
+
+---
+
 ## [0.45b] — hotfix
 
 ### Fixes
