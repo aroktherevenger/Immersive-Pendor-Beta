@@ -7,6 +7,30 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
+## Useful information
+
+### Enlisting as a soldier (Freelancer)
+
+You can join a lord's army as a common soldier, draw his pay and climb the ranks. Talk to a lord and choose **"I wish to take up arms in your service, my lord."** If he turns you down saying your name is unknown to him, you don't have enough renown yet. You can see your renown on the Character screen.
+
+**Renown you need, by who you ask:**
+
+| Who | Renown needed |
+|---|---|
+| A king (Ulric, Gregory IV, Kadan Bahadur Khan, Koningur Valdis, Marius Imperator) | 400 |
+| A Duke (Sarleon, Ravenstern), Caliph (D'Shar), Earl (Fierdsvain) or Dux (Empire) | 300 |
+| A Baron (Sarleon), Count (Ravenstern), Jarl (Fierdsvain), Legatus (Empire) or Bey (D'Shar); also Lord Hraven the Bold and Lord Ingvarr the Lame (Fierdsvain), Lord Brutus and Lord Decimus (Empire), and Kaivan, Faridar, Kalandar, Farhad and Jehangir Khan (D'Shar) | 200 |
+| Any other lord of the five kingdoms (most plain "Lord ..." titles, and the other D'Shar Khans) | none |
+
+**The offer only appears if:**
+- you are not a vassal or ruler of any kingdom,
+- you are not a member of a Knight Order,
+- your relation with that lord is 0 or higher,
+- you are not currently under a mercenary contract,
+- you are not already enlisted with someone.
+
+---
+
 ## [0.46]
 
 ### New systems & content
@@ -30,6 +54,10 @@ Features list **Access:** — how to actually reach the content in-game.
 - **"Resume travelling" is back in the Reports menu.** Warband can only show 16 options in a menu. The Reports menu had 17, so with cheats on the last one, "Resume travelling", was cut off and you could get stuck there. "View enterprise report" has moved into the location income report, and its Back button returns there. In the Camp menu, "Discharge" and "Desert" for enlisted soldiers now sit above the cheat options, so they can't be cut off either. Tested in game before release. Existing saves keep working. **Access:** Reports → "View location income report" → "View enterprise report"; Camp menu while enlisted.
 
 - **The arena master now quotes the right prize.** He said being the last fighter standing pays 4000 denars, but it actually pays 1000 (it was lowered in an earlier balance pass). He now says 1000. **Access:** any town arena → talk to the arena master → "Is there a reward?" or "Can you tell me about the rewards again?"
+
+- **Red Brotherhood caches by a river no longer get the sea landing.** The landing with beached boats now only appears by the sea or the inland sea. A cache next to a river uses the forest camp instead. **Access:** buy a Red Brotherhood cache map from a tavern traveller and attack the Brotherhood Cache.
+
+- **Clearing a bandit lair always gives loot, and the lair goes away.** Lair loot was scaled by your share of your last field battle. If you had never fought one, that share was zero: you got no loot, and the cleared lair stayed on the map. For a Brotherhood Cache, that also stopped travellers offering you new cache maps. Lair loot now counts you as fighting alone, which you are. This also means lairs no longer give less loot because your last battle was fought beside a large allied army. Applies to every bandit lair. Existing saves keep working. **Access:** attack and clear any bandit lair or Brotherhood Cache.
 
 - **Main Story Chapter 2's last journal note no longer looks like a task.** The closing note named Marleons and Laria in a way that read like orders to go there, but there is nothing to do there yet. It now says the watch commander named two other men in those towns, and that there is nothing more to be done about them for now. Existing saves keep working. **Access:** quest journal, after finishing "The Crooked Captain".
 
