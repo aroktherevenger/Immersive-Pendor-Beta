@@ -1,4 +1,4 @@
-# Changelog — Immersive Pendor
+﻿# Changelog — Immersive Pendor
 
 Everything Immersive Pendor changes versus a stock **Prophesy of Pendor v3.9.5** install.
 
