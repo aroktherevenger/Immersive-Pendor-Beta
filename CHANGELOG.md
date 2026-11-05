@@ -9,6 +9,12 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ## [0.46]
 
+### New systems & content
+
+- **Reworked scenes for the D'Shar lands, the bandit lairs and the Hidden Mines of Al-Aziz.** A scene pack from the community replaces 22 existing scenes: Yasin is now a nomad yurt camp in the hills; the D'Shar Raider Lair and the Brigand Camp have new layouts; the Snake Cult Shrine and Vanskerry Landing are reworked; and 16 more D'Shar villages get fixed walking paths for the people in them. Some scenes now have saddled horses standing about. **Access:** visit Yasin or any D'Shar village; attack a D'Shar Raider Lair, Brigand Camp, Snake Cult Shrine or Vanskerry Landing on the map.
+
+- **A chest in the Hidden Mines of Al-Aziz.** The mines now have a chest you can open. The first time you go in, it holds 3 Wine. **Access:** Hidden Mines of Al-Aziz on the map → Enter → walk to the chest and press the use key.
+
 ### Fixes
 
 - **Companion quest bands no longer hide inside towns.** Sir Roland's cultists near Janos, Alyssa's bands near Janos and Cez, and Diev's raiders near Rane used to spawn right on top of the town, so clicking them selected the town instead. They now wait on open ground just outside the walls. If one is already stuck inside a town in your save, it moves out within a day. Existing saves keep working. **Access:** Sir Roland's, Alyssa's and Diev's personal quests.
