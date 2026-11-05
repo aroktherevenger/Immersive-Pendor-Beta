@@ -15,6 +15,8 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **A chest in the Hidden Mines of Al-Aziz.** The mines now have a chest you can open. The first time you go in, it holds 3 Wine. **Access:** Hidden Mines of Al-Aziz on the map → Enter → walk to the chest and press the use key.
 
+- **Red Brotherhood caches reworked.** When a tavern traveller sells you a map to a hidden Red Brotherhood cache, the camp now fits the land it sits on: a landing with crates and beached boats near water, a fenced camp at a cave mouth on the steppe, and the old forest camp inland. Caches no longer appear in snow or desert. The traveller offers one more often (about 1 in 4 maps instead of 1 in 6), and the camp is led by a Brotherhood Guildsman. The chest can now also hold a Gold Bar with Noldor Trade Goods (20%), a Small Pouch of Diamonds (5%) or a Qualis Gem (1%), on every cache, not just the first. On the map it is now called **Brotherhood Cache**. Needs a new game. **Access:** talk to travellers in town taverns; when one offers a map to a Red Brotherhood cache, pay 200 denars, find the Brotherhood Cache near the named village, win the fight and open the chest.
+
 ### Fixes
 
 - **Companion quest bands no longer hide inside towns.** Sir Roland's cultists near Janos, Alyssa's bands near Janos and Cez, and Diev's raiders near Rane used to spawn right on top of the town, so clicking them selected the town instead. They now wait on open ground just outside the walls. If one is already stuck inside a town in your save, it moves out within a day. Existing saves keep working. **Access:** Sir Roland's, Alyssa's and Diev's personal quests.
