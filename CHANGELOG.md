@@ -1,4 +1,4 @@
-﻿# Changelog — Immersive Pendor
+# Changelog — Immersive Pendor
 
 Everything Immersive Pendor changes versus a stock **Prophesy of Pendor v3.9.5** install.
 
@@ -20,6 +20,10 @@ Features list **Access:** — how to actually reach the content in-game.
 - **Helmets no longer float in the air after a decapitation.** When a soldier lost his head, many helmets dropped to the ground at head height and hung there in mid-air. Those helmets now simply come off with the head instead of being dropped. Helmets that sit correctly on the ground still drop as before. Tested in battle before release. Existing saves keep working. **Access:** any battle with decapitations switched on (Camp menu, "Battle gore").
 
 - **"Resume travelling" is back in the Reports menu.** Warband can only show 16 options in a menu. The Reports menu had 17, so with cheats on the last one, "Resume travelling", was cut off and you could get stuck there. "View enterprise report" has moved into the location income report, and its Back button returns there. In the Camp menu, "Discharge" and "Desert" for enlisted soldiers now sit above the cheat options, so they can't be cut off either. Tested in game before release. Existing saves keep working. **Access:** Reports → "View location income report" → "View enterprise report"; Camp menu while enlisted.
+
+- **The arena master now quotes the right prize.** He said being the last fighter standing pays 4000 denars, but it actually pays 1000 (it was lowered in an earlier balance pass). He now says 1000. **Access:** any town arena → talk to the arena master → "Is there a reward?" or "Can you tell me about the rewards again?"
+
+- **Main Story Chapter 2's last journal note no longer looks like a task.** The closing note named Marleons and Laria in a way that read like orders to go there, but there is nothing to do there yet. It now says the watch commander named two other men in those towns, and that there is nothing more to be done about them for now. Existing saves keep working. **Access:** quest journal, after finishing "The Crooked Captain".
 
 ---
 
