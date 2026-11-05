@@ -11,7 +11,7 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ### New systems & content
 
-- **Reworked scenes for the D'Shar lands, the bandit lairs and the Hidden Mines of Al-Aziz.** A scene pack from the community replaces 22 existing scenes: Yasin is now a nomad yurt camp in the hills; the D'Shar Raider Lair and the Brigand Camp have new layouts; the Snake Cult Shrine and Vanskerry Landing are reworked; and 16 more D'Shar villages get fixed walking paths for the people in them. Some scenes now have saddled horses standing about. **Access:** visit Yasin or any D'Shar village; attack a D'Shar Raider Lair, Brigand Camp, Snake Cult Shrine or Vanskerry Landing on the map.
+- **Reworked scenes for the D'Shar lands, the bandit lairs and the Hidden Mines of Al-Aziz.** A scene pack by **FrozenPainter** (used with permission, all credit to FrozenPainter) replaces 22 existing scenes: Yasin is now a nomad yurt camp in the hills; the D'Shar Raider Lair and the Brigand Camp have new layouts; the Snake Cult Shrine and Vanskerry Landing are reworked; and 16 more D'Shar villages get fixed walking paths for the people in them. Some scenes now have saddled horses standing about. **Access:** visit Yasin or any D'Shar village; attack a D'Shar Raider Lair, Brigand Camp, Snake Cult Shrine or Vanskerry Landing on the map.
 
 - **A chest in the Hidden Mines of Al-Aziz.** The mines now have a chest you can open. The first time you go in, it holds 3 Wine. **Access:** Hidden Mines of Al-Aziz on the map → Enter → walk to the chest and press the use key.
 
