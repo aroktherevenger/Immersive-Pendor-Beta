@@ -17,6 +17,10 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **No more endless loop when following your lord into a siege.** While enlisted, following your commander into a siege battle could send you to "Pass through the siege lines" over and over, with no way out of the menus. You now go straight to your lord's side: the besiegers' camp if he is attacking, or the defenders if he is holding the town. Existing saves keep working. **Access:** enlisted with a lord → "Follow your commander into battle" while he besieges or defends a town or castle.
 
+- **Helmets no longer float in the air after a decapitation.** When a soldier lost his head, many helmets dropped to the ground at head height and hung there in mid-air. Those helmets now simply come off with the head instead of being dropped. Helmets that sit correctly on the ground still drop as before. Tested in battle before release. Existing saves keep working. **Access:** any battle with decapitations switched on (Camp menu, "Battle gore").
+
+- **"Resume travelling" is back in the Reports menu.** Warband can only show 16 options in a menu. The Reports menu had 17, so with cheats on the last one, "Resume travelling", was cut off and you could get stuck there. "View enterprise report" has moved into the location income report, and its Back button returns there. In the Camp menu, "Discharge" and "Desert" for enlisted soldiers now sit above the cheat options, so they can't be cut off either. Tested in game before release. Existing saves keep working. **Access:** Reports → "View location income report" → "View enterprise report"; Camp menu while enlisted.
+
 ---
 
 ## [0.45b] — hotfix
