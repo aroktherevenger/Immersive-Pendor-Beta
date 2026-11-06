@@ -47,6 +47,8 @@ Recommended: install it as its own module, so vanilla PoP and your existing save
 How the bigger new systems work in-game is explained on a separate page, [NEW_MECHANICS.md](NEW_MECHANICS.md):
 
 - [Enlisting as a soldier (Freelancer)](NEW_MECHANICS.md#enlisting-as-a-soldier-freelancer)
+  - [Getting promoted](NEW_MECHANICS.md#getting-promoted)
+- [Trade agreements between kingdoms](NEW_MECHANICS.md#trade-agreements-between-kingdoms)
 
 ## Requirements
 
