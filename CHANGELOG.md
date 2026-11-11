@@ -7,7 +7,9 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
-## [0.46]
+## [0.500]
+
+**Start a new game — saves from 0.46 and earlier will not load.** 0.500 replaces the planned 0.46 and is a save break: older saves show "Incomp. Mod. Ver.!" on the Load screen. From now on, hotfixes (0.501, 0.502 …) and minor patches (0.510, 0.520 …) keep your 0.500 saves; only the next big release (0.600) breaks saves again. The version shows as v0.5 in the main-menu corner.
 
 ### New systems & content
 
@@ -19,15 +21,15 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ### Fixes
 
-- **Companion quest bands no longer hide inside towns.** Sir Roland's cultists near Janos, Alyssa's bands near Janos and Cez, and Diev's raiders near Rane used to spawn right on top of the town, so clicking them selected the town instead. They now wait on open ground just outside the walls. If one is already stuck inside a town in your save, it moves out within a day. Existing saves keep working. **Access:** Sir Roland's, Alyssa's and Diev's personal quests.
+- **Companion quest bands no longer hide inside towns.** Sir Roland's cultists near Janos, Alyssa's bands near Janos and Cez, and Diev's raiders near Rane used to spawn right on top of the town, so clicking them selected the town instead. They now wait on open ground just outside the walls. If one is already stuck inside a town in your save, it moves out within a day. **Access:** Sir Roland's, Alyssa's and Diev's personal quests.
 
-- **Captured kings can be asked for peace every time you talk to them.** The "Grant me peace between our kingdoms" offer showed up when you first spoke to a captured enemy king, but disappeared if you talked to anyone else before going back to him. It now always appears while the rules allow it: you are a king, he is a king, your kingdoms are at war, and he hasn't refused you in the last week. Existing saves keep working. **Access:** party screen → your prisoners → talk to a captured enemy king.
+- **Captured kings can be asked for peace every time you talk to them.** The "Grant me peace between our kingdoms" offer showed up when you first spoke to a captured enemy king, but disappeared if you talked to anyone else before going back to him. It now always appears while the rules allow it: you are a king, he is a king, your kingdoms are at war, and he hasn't refused you in the last week. **Access:** party screen → your prisoners → talk to a captured enemy king.
 
-- **No more endless loop when following your lord into a siege.** While enlisted, following your commander into a siege battle could send you to "Pass through the siege lines" over and over, with no way out of the menus. You now go straight to your lord's side: the besiegers' camp if he is attacking, or the defenders if he is holding the town. Existing saves keep working. **Access:** enlisted with a lord → "Follow your commander into battle" while he besieges or defends a town or castle.
+- **No more endless loop when following your lord into a siege.** While enlisted, following your commander into a siege battle could send you to "Pass through the siege lines" over and over, with no way out of the menus. You now go straight to your lord's side: the besiegers' camp if he is attacking, or the defenders if he is holding the town. **Access:** enlisted with a lord → "Follow your commander into battle" while he besieges or defends a town or castle.
 
-- **Helmets no longer float in the air after a decapitation.** When a soldier lost his head, many helmets dropped to the ground at head height and hung there in mid-air. Those helmets now simply come off with the head instead of being dropped. Helmets that sit correctly on the ground still drop as before. Tested in battle before release. Existing saves keep working. **Access:** any battle with decapitations switched on (Camp menu, "Battle gore").
+- **Helmets no longer float in the air after a decapitation.** When a soldier lost his head, many helmets dropped to the ground at head height and hung there in mid-air. Those helmets now simply come off with the head instead of being dropped. Helmets that sit correctly on the ground still drop as before. Tested in battle before release. **Access:** any battle with decapitations switched on (Camp menu, "Battle gore").
 
-- **"Resume travelling" is back in the Reports menu.** Warband can only show 16 options in a menu. The Reports menu had 17, so with cheats on the last one, "Resume travelling", was cut off and you could get stuck there. "View enterprise report" has moved into the location income report, and its Back button returns there. In the Camp menu, "Discharge" and "Desert" for enlisted soldiers now sit above the cheat options, so they can't be cut off either. Tested in game before release. Existing saves keep working. **Access:** Reports → "View location income report" → "View enterprise report"; Camp menu while enlisted.
+- **"Resume travelling" is back in the Reports menu.** Warband can only show 16 options in a menu. The Reports menu had 17, so with cheats on the last one, "Resume travelling", was cut off and you could get stuck there. "View enterprise report" has moved into the location income report, and its Back button returns there. In the Camp menu, "Discharge" and "Desert" for enlisted soldiers now sit above the cheat options, so they can't be cut off either. Tested in game before release. **Access:** Reports → "View location income report" → "View enterprise report"; Camp menu while enlisted.
 
 - **The arena master now quotes the right prize.** He said being the last fighter standing pays 4000 denars, but it actually pays 1000 (it was lowered in an earlier balance pass). He now says 1000. **Access:** any town arena → talk to the arena master → "Is there a reward?" or "Can you tell me about the rewards again?"
 
@@ -35,9 +37,9 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Red Brotherhood caches beside a river bridge no longer get the sea landing either.** The river fix above missed caches whose nearest water was a bridge over a river: they still got the landing with beached boats. Now only caches by the sea or the inland sea get it. A cache that already appeared before this fix keeps its scene until you clear it. **Access:** buy a Red Brotherhood cache map from a tavern traveller and attack the Brotherhood Cache.
 
-- **Clearing a bandit lair always gives loot, and the lair goes away.** Lair loot was scaled by your share of your last field battle. If you had never fought one, that share was zero: you got no loot, and the cleared lair stayed on the map. For a Brotherhood Cache, that also stopped travellers offering you new cache maps. Lair loot now counts you as fighting alone, which you are. This also means lairs no longer give less loot because your last battle was fought beside a large allied army. Applies to every bandit lair. Existing saves keep working. **Access:** attack and clear any bandit lair or Brotherhood Cache.
+- **Clearing a bandit lair always gives loot, and the lair goes away.** Lair loot was scaled by your share of your last field battle. If you had never fought one, that share was zero: you got no loot, and the cleared lair stayed on the map. For a Brotherhood Cache, that also stopped travellers offering you new cache maps. Lair loot now counts you as fighting alone, which you are. This also means lairs no longer give less loot because your last battle was fought beside a large allied army. Applies to every bandit lair. **Access:** attack and clear any bandit lair or Brotherhood Cache.
 
-- **Main Story Chapter 2's last journal note no longer looks like a task.** The closing note named Marleons and Laria in a way that read like orders to go there, but there is nothing to do there yet. It now says the watch commander named two other men in those towns, and that there is nothing more to be done about them for now. Existing saves keep working. **Access:** quest journal, after finishing "The Crooked Captain".
+- **Main Story Chapter 2's last journal note no longer looks like a task.** The closing note named Marleons and Laria in a way that read like orders to go there, but there is nothing to do there yet. It now says the watch commander named two other men in those towns, and that there is nothing more to be done about them for now. **Access:** quest journal, after finishing "The Crooked Captain".
 
 ---
 
