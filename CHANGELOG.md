@@ -19,6 +19,8 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Red Brotherhood caches reworked.** When a tavern traveller sells you a map to a hidden Red Brotherhood cache, the camp now fits the land it sits on: a landing with crates and beached boats near water, a fenced camp at a cave mouth on the steppe, and the old forest camp inland. Caches no longer appear in snow or desert. The traveller offers one more often (about 1 in 4 maps instead of 1 in 6), and the camp is led by a Brotherhood Guildsman. The chest can now also hold a Gold Bar with Noldor Trade Goods (20%), a Small Pouch of Diamonds (5%) or a Qualis Gem (1%), on every cache, not just the first. On the map it is now called **Brotherhood Cache**. Needs a new game. **Access:** talk to travellers in town taverns; when one offers a map to a Red Brotherhood cache, pay 200 denars, find the Brotherhood Cache near the named village, win the fight and open the chest.
 
+- **Jatu Raider Camp.** The Jatu now keep a raiders' camp out on the Jatu Plains, full of plunder taken from the Noldor. Fight its waves and its Warlord on foot, and the loot includes Noldor gear you can't buy in shops. Clear it and a new camp rises later. **Access:** ask the lord of Poinsbruk or Laria for a task. If he names Jatu Raiders, accept, and the camp shows on your map. Or ride the Jatu Plains until you stumble on it.
+
 ### Fixes
 
 - **Companion quest bands no longer hide inside towns.** Sir Roland's cultists near Janos, Alyssa's bands near Janos and Cez, and Diev's raiders near Rane used to spawn right on top of the town, so clicking them selected the town instead. They now wait on open ground just outside the walls. If one is already stuck inside a town in your save, it moves out within a day. **Access:** Sir Roland's, Alyssa's and Diev's personal quests.
@@ -42,6 +44,8 @@ Features list **Access:** — how to actually reach the content in-game.
 - **Main Story Chapter 2's last journal note no longer looks like a task.** The closing note named Marleons and Laria in a way that read like orders to go there, but there is nothing to do there yet. It now says the watch commander named two other men in those towns, and that there is nothing more to be done about them for now. **Access:** quest journal, after finishing "The Crooked Captain".
 
 - **The watch commander's last words in Chapter 2 now match your choice.** After you confront him in Sarleon, all three choices used to end with the same text, which said he talked "without being pressed" even when you refused his money to make him talk. Now each choice has its own ending: having him arrested gets you the least, taking his money a little more, and refusing it gets you the whole story. Rewards are unchanged. **Access:** Main Story Chapter 2, in Sarleon, after you destroy the paymaster's camp.
+
+- **Bandit-lair quests pay their gold reward once.** When you reported a cleared lair, the lord paid the reward twice. He now pays what he offered. **Access:** report a cleared lair to the lord who gave you the quest.
 
 ---
 
