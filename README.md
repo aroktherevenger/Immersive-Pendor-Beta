@@ -57,6 +57,10 @@ How the bigger new systems work in-game is explained on a separate page, [NEW_ME
 - **[The Complete Arsenal of Al-Aziz](https://www.nexusmods.com/mbwarband/mods/6315)** (required — install it before Immersive Pendor)
 - WSE2 recommended (used in development) but not required — runs on standard Warband too.
 
+## Editing troops in Morgh's Editor
+
+Morgh's Editor v1.50 can open and save Immersive Pendor's troops (fixed in 0.500). One limit, from the editor itself and the same in vanilla PoP: it shows "Error #6 in ShowTroop" on any troop whose gear has a quality bonus (masterwork, lordly and so on). That covers most lords, the kings and the mercenary leaders. Edit those troops in `troops.txt` with a plain text editor instead. The game itself is not affected.
+
 ## Roadmap / Future plans
 
 This is a living project. The rough priorities going forward:
