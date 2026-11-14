@@ -47,6 +47,8 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Bandit-lair quests pay their gold reward once.** When you reported a cleared lair, the lord paid the reward twice. He now pays what he offered. **Access:** report a cleared lair to the lord who gave you the quest.
 
+- **Morgh's Editor can edit troops again.** Opening any troop in Morgh's Editor showed "Error # 9 in ShowTroop", so players who edit the mod could not change troops. Fixed; nothing changes in the game itself. **Access:** open the mod's troops in Morgh's Editor (Troop editor).
+
 ---
 
 ## [0.45b] — hotfix
