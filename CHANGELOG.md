@@ -21,6 +21,8 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Jatu Raider Camp.** The Jatu now keep a raiders' camp out on the Jatu Plains, full of plunder taken from the Noldor. Fight its waves and its Warlord on foot, and the loot includes Noldor gear you can't buy in shops. Clear it and a new camp rises later. **Access:** ask the lord of Poinsbruk or Laria for a task. If he names Jatu Raiders, accept, and the camp shows on your map. Or ride the Jatu Plains until you stumble on it.
 
+- **Chapter 2: the paymaster's camp now matches your strength, and the journal links Sarleon and Marleons.** Sneaking into Sarleon to confront the watch commander now gets its own line. The camp, now called the Marleons Road Camp, gains tougher men if you're level 10 or higher when the merchant's letter arrives. **Access:** Main Story Chapter 2, from the merchant's letter.
+
 ### Fixes
 
 - **Companion quest bands no longer hide inside towns.** Sir Roland's cultists near Janos, Alyssa's bands near Janos and Cez, and Diev's raiders near Rane used to spawn right on top of the town, so clicking them selected the town instead. They now wait on open ground just outside the walls. If one is already stuck inside a town in your save, it moves out within a day. **Access:** Sir Roland's, Alyssa's and Diev's personal quests.
