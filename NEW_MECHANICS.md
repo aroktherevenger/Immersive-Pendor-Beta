@@ -49,3 +49,15 @@ Kingdoms now sign trade agreements with each other. You can see them in **Notes 
 3. After that, while you are at peace with them and have no agreement yet, the option **"That we propose a trade agreement with him."** appears. Your emissary travels there and comes back with a yes or a no. If they accept, the agreement is signed.
 
 Your own kingdom's agreements open the caravan routes like any other, so they help your **towns'** trade and prosperity. They do not raise your villages' base prosperity, and your kingdom does not get the weekly +1 relation or the automatic signings, which are only between the five AI kingdoms.
+
+## Your wife can ride with you
+
+Talk to your wife at home and pick **"Ride with me for a while."** She joins your party as a companion.
+On the road, open the Party screen, select her and press Talk. You can look at her equipment or send her home.
+
+- She brings armour but no weapon. Give her one before a fight.
+- Like any hero in your party she draws a weekly wage. A Noldor wife costs about 134 denars a week at Leadership 0.
+- If you are defeated she slips away and goes home. If she has no home yet, she stays with you.
+- She can't ride with you while she is your minister. Making her minister sends her back to court.
+- Household storage, feasts and outfit changes are only offered at home.
+- Send her home before you remove the mod.
