@@ -51,6 +51,8 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Morgh's Editor can edit troops again.** Opening any troop in Morgh's Editor showed "Error # 9 in ShowTroop", so players who edit the mod could not change troops. Fixed; nothing changes in the game itself. **Access:** open the mod's troops in Morgh's Editor (Troop editor).
 
+- **Ransoming a captive lady now pays.** When you took a fief and told a lady held there to "contact your family to arrange for a ransom", you lost honor and her goodwill, but her family never made an offer and she waited forever. Her family now sends an offer like they do for captured lords, and you can accept or reject it. If you change your mind and let her go, in the conversation or from the party screen, she is released properly. **Access:** capture a castle or town with a lady inside → talk to her → "You assume wrong, my lady!" → "Contact your family to arrange for a ransom, my lady." → wait for the offer.
+
 ---
 
 ## [0.45b] — hotfix
