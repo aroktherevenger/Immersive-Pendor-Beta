@@ -49,6 +49,7 @@ How the bigger new systems work in-game is explained on a separate page, [NEW_ME
 - [Enlisting as a soldier (Freelancer)](NEW_MECHANICS.md#enlisting-as-a-soldier-freelancer)
   - [Getting promoted](NEW_MECHANICS.md#getting-promoted)
 - [Trade agreements between kingdoms](NEW_MECHANICS.md#trade-agreements-between-kingdoms)
+- [Hire elite troops from a Master-at-Arms](NEW_MECHANICS.md#hire-elite-troops-from-a-master-at-arms)
 
 ## Requirements
 

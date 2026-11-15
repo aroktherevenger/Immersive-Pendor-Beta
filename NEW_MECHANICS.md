@@ -61,3 +61,25 @@ On the road, open the Party screen, select her and press Talk. You can look at h
 - She can't ride with you while she is your minister. Making her minister sends her back to court.
 - Household storage, feasts and outfit changes are only offered at home.
 - Send her home before you remove the mod.
+
+## Hire elite troops from a Master-at-Arms
+
+In seven towns a Master-at-Arms stands by the castle gate, next to the gate guard. Talk to him there, or pick
+**"Visit the Master-at-Arms."** in the town menu, then **"I am looking for fighting men."**
+
+| Town | Troop | Town relation needed | Price a head |
+|---|---|---|---|
+| Javiksholm | Valdis Huscarl | 60 | 2,500 |
+| Janos | Empire Centurion | 70 | 3,500 |
+| Marleons | Marleons Heavy Cavalry | 50 | 2,500 |
+| Poinsbruk | Iceguard Ranger | 60 | 2,500 |
+| Singal | Singalian Temptress | 50 | 2,500 |
+| Cez | Guardian Empire Knight | 60 | 3,000 |
+| Ishkoman | D'Shar Djaha Archer | 50 | 2,000 |
+
+- He has 2 men ready, or 3 once your relation with the town is 20 above the need (Janos: 15 above).
+- Once a week he has new men ready: 7 days after his last batch, the stock is full again. He tells you how many days are left.
+- Below the needed relation he tells you what you need. Win in the town's arena and do work for its guild master to raise it.
+- Hire one, or as many as your gold, party room and his stock allow, in one go.
+- He doesn't deal with you while you are at war with the town's owner, and he isn't there if you sneak in.
+- The men draw the normal weekly wage for their troop.
