@@ -59,6 +59,8 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Ransoming a captive lady now pays.** When you took a fief and told a lady held there to "contact your family to arrange for a ransom", you lost honor and her goodwill, but her family never made an offer and she waited forever. Her family now sends an offer like they do for captured lords, and you can accept or reject it. If you change your mind and let her go, in the conversation or from the party screen, she is released properly. **Access:** capture a castle or town with a lady inside → talk to her → "You assume wrong, my lady!" → "Contact your family to arrange for a ransom, my lady." → wait for the offer.
 
+
+- **Trade agreements you negotiate are now actually signed.** When your emissary came back with a yes to a trade agreement, the message read "Trade agreement signed: Kingdom of Pendor and No Faction." and no agreement was made with any kingdom. It now names the kingdom you chose, and that kingdom's report lists the agreement. If this happened to you, you can propose the agreement again. **Access:** as ruler of your own kingdom, Camp → talk to your minister → propose a diplomatic initiative → choose a kingdom that has recognised you → "That we propose a trade agreement with him."
 ---
 
 ## [0.45b] — hotfix
