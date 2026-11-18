@@ -65,6 +65,8 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Trade agreements you negotiate are now actually signed.** When your emissary came back with a yes to a trade agreement, the message read "Trade agreement signed: Kingdom of Pendor and No Faction." and no agreement was made with any kingdom. It now names the kingdom you chose, and that kingdom's report lists the agreement. If this happened to you, you can propose the agreement again. **Access:** as ruler of your own kingdom, Camp → talk to your minister → propose a diplomatic initiative → choose a kingdom that has recognised you → "That we propose a trade agreement with him."
 
+- **Diev's Reckoning now leaves the quest list.** After you told Diev the raid band was dead and chose his reward, the quest stayed in your journal saying "Talk to Diev Wodenssen to claim your reward". It now closes as soon as you choose. If it is already stuck in your save, it clears within a day. **Access:** Diev's personal quest → Party screen → talk to Diev after the raid band is destroyed.
+
 ---
 
 ## [0.45b] — hotfix
