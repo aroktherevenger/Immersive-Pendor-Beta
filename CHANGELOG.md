@@ -69,6 +69,8 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Diev's Reckoning now leaves the quest list.** After you told Diev the raid band was dead and chose his reward, the quest stayed in your journal saying "Talk to Diev Wodenssen to claim your reward". It now closes as soon as you choose. If it is already stuck in your save, it clears within a day. **Access:** Diev's personal quest → Party screen → talk to Diev after the raid band is destroyed.
 
+- **Finished main story chapters now leave the quest list.** When Chapter 2, 3 or 4 ended, its card stayed among your active quests, marked as won. It now closes when you take the chapter's reward, and counts as a completed quest. If a card is already stuck on your save, it clears within an in-game hour. **Access:** finish a main story chapter by taking its reward, then open Notes.
+
 ---
 
 ## [0.45b] — hotfix
