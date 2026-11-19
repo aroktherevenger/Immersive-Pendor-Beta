@@ -49,6 +49,8 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **No background starts you at war with a great kingdom.** The minor noble, former knight, wandering nomad and "a letter that changed your life forever" used to start at −10 (at war) with one to three of Sarleon, Ravenstern, D'Shar and the Baccus Empire, which also hid their start towns. Every new character now starts at peace with all five kingdoms and can choose any start town. Penalties with knight orders, the Inquisition, the Snake Cult and the two kings are unchanged. New games only. **Access:** start a new game and pick any background; the "you arrive in Pendor" screen lists all five towns.
 
+- **Six top-tier troops can now upgrade into their faction's elite.** Vanskerry Hersir → Vanskerry Jarl, Mystmountain Warrior → Mystmountain Shaman, Mettenheim Hauptmann → Mettenheim Forlorn Hope, Veccavi Knight → Veccavi Bloodsworn Guard, Barclay Imperial Lancier → Barclay Imperial Chevalier, Jatu Battle Rider → Jatu Warlord. Each used to be the end of its tree. The Mettenheim and Barclay upgrades need a lot of experience (about six times a Princeps becoming a Centurion). Works on your current 0.500 save. Ideas from the "Improved troop trees" submod (Nexus 6654) and a community change set for 0.5. **Access:** party screen → select one of these troops (trained up the mercenary trees, hired, a companion's gift, or freed prisoners) → **Upgrade** once it has the experience.
+
 ### Fixes
 
 - **Companion quest bands no longer hide inside towns.** Sir Roland's cultists near Janos, Alyssa's bands near Janos and Cez, and Diev's raiders near Rane used to spawn right on top of the town, so clicking them selected the town instead. They now wait on open ground just outside the walls. If one is already stuck inside a town in your save, it moves out within a day. **Access:** Sir Roland's, Alyssa's and Diev's personal quests.
@@ -84,6 +86,10 @@ Features list **Access:** — how to actually reach the content in-game.
 - **Diev's Reckoning now leaves the quest list.** After you told Diev the raid band was dead and chose his reward, the quest stayed in your journal saying "Talk to Diev Wodenssen to claim your reward". It now closes as soon as you choose. If it is already stuck in your save, it clears within a day. **Access:** Diev's personal quest → Party screen → talk to Diev after the raid band is destroyed.
 
 - **Finished main story chapters now leave the quest list.** When Chapter 2, 3 or 4 ended, its card stayed among your active quests, marked as won. It now closes when you take the chapter's reward, and counts as a completed quest. If a card is already stuck on your save, it clears within an in-game hour. **Access:** finish a main story chapter by taking its reward, then open Notes.
+
+- **Ranged troops carry ammo that fits their weapon.** Heroine Adventurers are now always archers with Khergit arrows, like the Hero Adventurer (some used to turn up with a crossbow and cheap arrows). Maiden Adventurers carry steel bolts. Bounty Hunters have their crossbow back, so their bolts are no longer wasted. Empire Deserters no longer carry bolts they cannot shoot. The village hunter carries arrows for his bow. **Access:** any battle with these troops, on your side or the enemy's.
+
+- **Empire Centurions throw as well as they fight.** Their throwing skill was 300 against 380 in melee, so they threw their spears worse than the Princeps they are trained from. It is now 380. **Access:** party screen → an Empire Centurion → his weapon skills.
 
 ---
 
