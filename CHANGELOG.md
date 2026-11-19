@@ -37,6 +37,8 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ### Changes
 
+- **Your citizen minister can now do everything a companion minister can.** The "prominent citizen from the area" you can appoint when your kingdom is founded now offers political quests, emissaries, indicting a vassal and granting fiefs, so you can keep every companion in your party. You can also switch back to him later from any minister. Works on your current 0.500 save. (Tweak 13b) **Access:** your court → talk to your minister; to switch, talk to your minister → "I wish for you to retire as minister." (or "I wish you to rejoin my party.") → "A prominent citizen from the area."
+
 - **Autoresolve now uses your party's skills.** When you order your troops to attack without you, **Tactics** counts: for each level your party's Tactics is above the enemy's, your side hits 1% harder and takes 1% less, up to 15%. **Surgery** brings back 2% of your killed per level as wounded instead of dead. **Prisoner Management** captures 1% more of the enemy's fallen per level when you win. The enemy's Tactics and Surgery count by the same rules, and battles between AI parties on the map use them too. In an even fight, maxed Tactics against none raises your chance of winning from about half to more than 4 in 5. The Surgery, Tactics and Prisoner Management descriptions on the Character screen now say what they do in autoresolve (English text only). See [New Mechanics](NEW_MECHANICS.md#autoresolve-and-your-partys-skills). **Access:** any battle → "Order your troops to attack without you." (also when joining a battle, and in sieges).
 
 ### Fixes
