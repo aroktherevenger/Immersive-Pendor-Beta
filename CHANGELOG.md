@@ -43,7 +43,7 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Autoresolve now uses your party's skills.** When you order your troops to attack without you, **Tactics** counts: for each level your party's Tactics is above the enemy's, your side hits 1% harder and takes 1% less, up to 15%. **Surgery** brings back 2% of your killed per level as wounded instead of dead. **Prisoner Management** captures 1% more of the enemy's fallen per level when you win. The enemy's Tactics and Surgery count by the same rules, and battles between AI parties on the map use them too. In an even fight, maxed Tactics against none raises your chance of winning from about half to more than 4 in 5. The Surgery, Tactics and Prisoner Management descriptions on the Character screen now say what they do in autoresolve (English text only). See [New Mechanics](NEW_MECHANICS.md#autoresolve-and-your-partys-skills). **Access:** any battle → "Order your troops to attack without you." (also when joining a battle, and in sieges).
 
-- **Raiding breaks a truce.** Raiding a caravan or village of a kingdom you have a truce with, including the 20-day truce after a war, now ends that truce at once, and they may declare war again.
+- **Raiding breaks a truce.** Raiding a caravan or village of a kingdom you have a truce with, including the 20-day truce after a war, now ends that truce at once, and they may declare war again. **Access:** as the ruler of your own kingdom, attack a caravan or raid a village of a kingdom you hold a truce with; a red message says the truce is broken.
 
 ### Fixes
 
