@@ -83,3 +83,19 @@ In seven towns a Master-at-Arms stands by the castle gate, next to the gate guar
 - Hire one, or as many as your gold, party room and his stock allow, in one go.
 - He doesn't deal with you while you are at war with the town's owner, and he isn't there if you sneak in.
 - The men draw the normal weekly wage for their troop.
+
+## Autoresolve and your party's skills
+
+When you choose **"Order your troops to attack without you."**, three party skills now change the result. The same rules apply when you join someone else's battle, in sieges, and in battles between AI parties on the map.
+
+| Skill | In autoresolve |
+|---|---|
+| Tactics | Your party's Tactics minus the enemy's: each level makes your side hit 1% harder and take 1% less, up to 15%. The enemy's edge works the same way against you. |
+| Surgery | Each level brings back 2% of your killed as wounded. They rejoin your party wounded, never past its size limit. |
+| Prisoner Management | When you win, each level captures 1% more of the enemy's fallen (they show up as prisoners after the battle). |
+
+- Everyone else uses the same rules: lords have Tactics, bandits usually none.
+- Surgery only brings back men of your own party, never those of an allied lord fighting with you.
+- What it does in an even fight (30 Sellswords against 30, measured in the engine): maxed Tactics against none takes you from about 1 win in 4 to about 1 in 2. Party Surgery 14 brings back about half of your fallen as wounded instead of a third.
+- Leadership, First Aid, Looting, Engineer and Persuasion don't change autoresolve. Looting already works the same after both kinds of battle.
+- When you fight the battle yourself, the skills work as before.
