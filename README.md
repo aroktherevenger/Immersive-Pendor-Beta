@@ -72,6 +72,16 @@ This is a living project. The rough priorities going forward:
 
 Plans may shift based on feedback and how much time a one-man army can find. Suggestions are welcome.
 
+## Permissions
+
+Immersive Pendor is free to download and play, and you are welcome to read its files to learn how things are done.
+
+**Please ask before reusing it.** Do not include Immersive Pendor's files, code, scripts, troops, items, quests or other content, in whole or in part, in another mod or submod, and do not re-upload them anywhere, without my written permission first. Ask on the Discord channel or on the [Nexus page](https://www.nexusmods.com/mbwarband/mods/6794).
+
+If I give permission, credit Immersive Pendor by name and link the Nexus page in your mod's description and readme.
+
+Immersive Pendor is itself built on Prophesy of Pendor and on community work used with credit (see Shout outs). Those parts belong to their own authors, and their own permissions apply.
+
 ## Shout outs
 
 The Prophesy of Pendor development team, whose incredible mod this is built upon.
