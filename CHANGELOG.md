@@ -45,6 +45,8 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Raiding breaks a truce.** Raiding a caravan or village of a kingdom you have a truce with, including the 20-day truce after a war, now ends that truce at once, and they may declare war again. **Access:** as the ruler of your own kingdom, attack a caravan or raid a village of a kingdom you hold a truce with; a red message says the truce is broken.
 
+- **No background starts you at war with a great kingdom.** The minor noble, former knight, wandering nomad and "a letter that changed your life forever" used to start at −10 (at war) with one to three of Sarleon, Ravenstern, D'Shar and the Baccus Empire, which also hid their start towns. Every new character now starts at peace with all five kingdoms and can choose any start town. Penalties with knight orders, the Inquisition, the Snake Cult and the two kings are unchanged. New games only. **Access:** start a new game and pick any background; the "you arrive in Pendor" screen lists all five towns.
+
 ### Fixes
 
 - **Companion quest bands no longer hide inside towns.** Sir Roland's cultists near Janos, Alyssa's bands near Janos and Cez, and Diev's raiders near Rane used to spawn right on top of the town, so clicking them selected the town instead. They now wait on open ground just outside the walls. If one is already stuck inside a town in your save, it moves out within a day. **Access:** Sir Roland's, Alyssa's and Diev's personal quests.
