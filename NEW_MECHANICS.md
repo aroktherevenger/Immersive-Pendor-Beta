@@ -99,3 +99,12 @@ When you choose **"Order your troops to attack without you."**, three party skil
 - What it does in an even fight (30 Sellswords against 30, measured in the engine): maxed Tactics against none takes you from about 1 win in 2 to more than 4 in 5, and you lose about a quarter fewer men. Party Surgery 14 brings back about half of your fallen as wounded instead of a third.
 - Leadership, First Aid, Looting, Engineer and Persuasion don't change autoresolve. Looting already works the same after both kinds of battle.
 - When you fight the battle yourself, the skills work as before.
+
+## Run faster in towns (Left Alt)
+
+Hold **Left Alt** while you walk on foot and you run at 166% of your normal speed. Let go and you are back to normal.
+
+- Works in a town centre, the tavern, a village, a castle hall and your Old Ruins camp.
+- Does nothing on horseback, in battles, tournaments, the arena or lairs.
+- Stops while anyone in the scene is hostile to you, for example during a prison break.
+- Your companions don't speed up with you; they catch up when you stop.
