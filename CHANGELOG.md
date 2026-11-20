@@ -39,6 +39,8 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Hold Left Alt to run faster in towns.** Walking across a town, a village or a castle hall to reach the person you came for takes a while. Hold Left Alt while you walk on foot and you move about two-thirds faster; let go and you are back to normal. It does nothing on horseback, in battles, tournaments, the arena or lairs, or while anyone in the scene is fighting you. Idea from Warsword Conquest, suggested by the community. **Access:** hold Left Alt while walking on foot in a town centre, the tavern, a village, a castle hall or your Old Ruins camp.
 
+- **A Noldor husband (Tweak 17z).** A woman can now marry Ilaedanir, a Noldor noble who waits in Elacrai's hall. The terms are the same as for a Noldor wife: standing 95 with the Noldor, an Elacrai tournament win, a Qualis Gem in your pack, and a kingdom you serve or rule. He tells you what is still missing. When you qualify, the gem is taken, you pick one gift from his house (a Noldor runesword, ranger's garb or bow) and he joins your party. After that he works like a Noldor wife: he can ride with you or go home, goes home if you are defeated, can ask Elacrai for troops and can be your minister. He comes without a weapon. **Access:** Elacrai → "Go to the Noldor castle hall." → talk to Ilaedanir → "Would you take me as your wife?"
+
 ### Changes
 
 - **Your citizen minister can now do everything a companion minister can.** The "prominent citizen from the area" you can appoint when your kingdom is founded now offers political quests, emissaries, indicting a vassal and granting fiefs, so you can keep every companion in your party. You can also switch back to him later from any minister. Works on your current 0.500 save. (Tweak 13b) **Access:** your court → talk to your minister; to switch, talk to your minister → "I wish for you to retire as minister." (or "I wish you to rejoin my party.") → "A prominent citizen from the area."
@@ -90,6 +92,8 @@ Features list **Access:** — how to actually reach the content in-game.
 - **Ranged troops carry ammo that fits their weapon.** Heroine Adventurers are now always archers with Khergit arrows, like the Hero Adventurer (some used to turn up with a crossbow and cheap arrows). Maiden Adventurers carry steel bolts. Bounty Hunters have their crossbow back, so their bolts are no longer wasted. Empire Deserters no longer carry bolts they cannot shoot. The village hunter carries arrows for his bow. **Access:** any battle with these troops, on your side or the enemy's.
 
 - **Empire Centurions throw as well as they fight.** Their throwing skill was 300 against 380 in melee, so they threw their spears worse than the Princeps they are trained from. It is now 380. **Access:** party screen → an Empire Centurion → his weapon skills.
+
+- **Marriage texts no longer assume a wife.** The Qualis Gem is now a "marriage gift" and the gift message says "Gift received". The minister menu says "Appoint your spouse", the feast notice says "Your spouse has started preparations", and after a defeat your spouse "is making for home". **Access:** marry a Noldor spouse, then found a kingdom, host a feast or lose a battle with them in your party.
 
 ---
 

@@ -62,6 +62,10 @@ On the road, open the Party screen, select her and press Talk. You can look at h
 - Household storage, feasts and outfit changes are only offered at home.
 - Send her home before you remove the mod.
 
+### A Noldor husband (female characters only)
+
+A woman can marry **Ilaedanir** in Elacrai's hall on the same four terms as a Noldor wife. After the wedding he works like a wife in this section, and he can ask Elacrai for troops. He comes without a weapon: give him one through his equipment option while he rides with you.
+
 ## Hire elite troops from a Master-at-Arms
 
 In seven towns a Master-at-Arms stands by the castle gate, next to the gate guard. Talk to him there, or pick
