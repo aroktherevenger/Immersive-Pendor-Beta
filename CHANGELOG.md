@@ -53,6 +53,8 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Six top-tier troops can now upgrade into their faction's elite.** Vanskerry Hersir → Vanskerry Jarl, Mystmountain Warrior → Mystmountain Shaman, Mettenheim Hauptmann → Mettenheim Forlorn Hope, Veccavi Knight → Veccavi Bloodsworn Guard, Barclay Imperial Lancier → Barclay Imperial Chevalier, Jatu Battle Rider → Jatu Warlord. Each used to be the end of its tree. The Mettenheim and Barclay upgrades need a lot of experience (about six times a Princeps becoming a Centurion). Works on your current 0.500 save. Ideas from the "Improved troop trees" submod (Nexus 6654) and a community change set for 0.5. **Access:** party screen → select one of these troops (trained up the mercenary trees, hired, a companion's gift, or freed prisoners) → **Upgrade** once it has the experience.
 
+- **Troop routing is now off by default in new games.** Soldiers no longer flee from battle when their morale breaks. Your own order to retreat still works, and a new order still calls them back. **Access:** camp → POP options → Disable troop routing (ticked = no routing). Existing campaigns keep their setting: tick it to turn routing off.
+
 ### Fixes
 
 - **Companion quest bands no longer hide inside towns.** Sir Roland's cultists near Janos, Alyssa's bands near Janos and Cez, and Diev's raiders near Rane used to spawn right on top of the town, so clicking them selected the town instead. They now wait on open ground just outside the walls. If one is already stuck inside a town in your save, it moves out within a day. **Access:** Sir Roland's, Alyssa's and Diev's personal quests.
