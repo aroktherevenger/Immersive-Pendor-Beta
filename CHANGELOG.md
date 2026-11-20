@@ -102,6 +102,8 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Marriage texts no longer assume a wife.** The Qualis Gem is now a "marriage gift" and the gift message says "Gift received". The minister menu says "Appoint your spouse", the feast notice says "Your spouse has started preparations", and after a defeat your spouse "is making for home". **Access:** marry a Noldor spouse, then found a kingdom, host a feast or lose a battle with them in your party.
 
+- **The stronghold blacksmith upgrades pistols properly.** Alexios quoted 0 days for a pistol and then kept it. Pistols now take 10–25 days like crossbows and muskets, and a masterwork pistol is no longer offered. A pistol he kept before this fix is returned the next time you talk to him. **Access:** any Knight Order stronghold → talk to the blacksmith.
+
 ---
 
 ## [0.45b] — hotfix
