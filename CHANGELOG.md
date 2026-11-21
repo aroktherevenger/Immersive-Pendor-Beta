@@ -86,7 +86,7 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Main Story Chapter 2's last journal note no longer looks like a task.** The closing note named Marleons and Laria in a way that read like orders to go there, but there is nothing to do there yet. It now says the watch commander named two other men in those towns, and that there is nothing more to be done about them for now. **Access:** quest journal, after finishing "The Crooked Captain".
 
-- **The watch commander's last words in Chapter 2 now match your choice.** After you confront him in Sarleon, all three choices used to end with the same text, which said he talked "without being pressed" even when you refused his money to make him talk. Now each choice has its own ending: having him arrested gets you the least, taking his money a little more, and refusing it gets you the whole story. Rewards are unchanged. **Access:** Main Story Chapter 2, in Sarleon, after you destroy the paymaster's camp.
+- **The watch commander's last words in Chapter 2 now match your choice.** All three choices used to end with the same text, which said he talked "without being pressed" even when you refused his money to make him talk. Now he answers each choice in his own words, and names the two men in Marleons and Laria whichever you pick. Rewards are unchanged. **Access:** Main Story Chapter 2, in the alley behind Sarleon's watch house, once he yields.
 
 - **Bandit-lair quests pay their gold reward once.** When you reported a cleared lair, the lord paid the reward twice. He now pays what he offered. **Access:** report a cleared lair to the lord who gave you the quest.
 
