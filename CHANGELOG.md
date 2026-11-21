@@ -59,7 +59,7 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Troop routing is now off by default in new games.** Soldiers no longer flee from battle when their morale breaks. Your own order to retreat still works, and a new order still calls them back. **Access:** camp → POP options → Disable troop routing (ticked = no routing). Existing campaigns keep their setting: tick it to turn routing off.
 
-- **Main story places are easy to find.** The Chapter 2 camp and the Chapter 4 coven now show as tents and the Chapter 3 farmstead as houses, and they show on the map from any distance, like a village. The Inquisitor's escort in Chapter 4 also shows from any distance. The Chapter 2 quest note links the camp: click its name to see it on the map. Each place leaves the map once you're done with it, and the Counting House now goes away when Chapter 4 ends. Needs a new game. **Access:** Main Story Chapters 2–4; open the quest card's current note and click the place's name.
+- **Main story places are easy to find.** The Chapter 2 camp and the Chapter 4 coven now show as tents and the Chapter 3 farmstead as houses, and they show on the map from any distance, like a village. The camp, the farmstead and the coven also show their name on the map until you ride into them, and the coven no longer hides behind the Counting House. The Inquisitor's escort in Chapter 4 also shows from any distance. The Chapter 2 quest note links the camp: click its name to see it on the map. Each place leaves the map once you're done with it, and the Counting House now goes away when Chapter 4 ends. Needs a new game. **Access:** Main Story Chapters 2–4; open the quest card's current note and click the place's name.
 
 ### Fixes
 
