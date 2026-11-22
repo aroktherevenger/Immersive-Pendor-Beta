@@ -118,6 +118,8 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Six reworked armours now count at their real values everywhere.** The Black Brigandine & Plate (with and without cape), Dark Strapped Mail Coat, Dark Chain Coat, White & Black Platemail and Black Mail & Plate were tweaked in earlier versions, but companions picking up loot, the Order Blacksmith's prices and knightly gear still used their old armour and price. They now use the values you see on the item. New games only. **Access:** automatic in a new game.
 
+- **Your character calls out battle orders again.** Since the Formations v5 switch earlier in 0.500, orders were silent. Hold, follow, charge, advance, fall back, retreat, mount, dismount, stand closer, spread out, hold fire, fire at will and the weapon orders now play their voice line again, with the female voice for a female character. Nothing else about the orders or formations changed. **Access:** give any order in battle.
+
 ---
 
 ## [0.45b] — hotfix
