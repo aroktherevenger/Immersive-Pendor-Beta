@@ -116,9 +116,9 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **The stronghold blacksmith upgrades pistols properly.** Alexios quoted 0 days for a pistol and then kept it. Pistols now take 10–25 days like crossbows and muskets, and a masterwork pistol is no longer offered. A pistol he kept before this fix is returned the next time you talk to him. **Access:** any Knight Order stronghold → talk to the blacksmith.
 
----
-
 - **Six reworked armours now count at their real values everywhere.** The Black Brigandine & Plate (with and without cape), Dark Strapped Mail Coat, Dark Chain Coat, White & Black Platemail and Black Mail & Plate were tweaked in earlier versions, but companions picking up loot, the Order Blacksmith's prices and knightly gear still used their old armour and price. They now use the values you see on the item. New games only. **Access:** automatic in a new game.
+
+---
 
 ## [0.45b] — hotfix
 
