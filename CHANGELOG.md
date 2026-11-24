@@ -126,6 +126,8 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **The merchant names your rescued relative again.** In Chapter 1, after you bring the merchant's family home and agree to help, he said "My March 23, 354 has hardly spoken…" instead of naming his relative. He now says "my brother" (or the right relative for your start town). **Access:** Chapter 1, talk to the merchant after bringing his family home.
 
+- **Rune plates and four more armours now count as armour for companions.** The 28 rune plates from The Complete Arsenal of Al-Aziz and the Kraken Plate, Black Brigandine, Dark Mail and Plate and Black Mail and Plate had no stored armour values, so companions picking up loot treated them as no armour at all. They now use the values you see on the item. New games only. **Access:** automatic in a new game; companions auto-looting after a battle.
+
 ---
 
 ## [0.45b] — hotfix
