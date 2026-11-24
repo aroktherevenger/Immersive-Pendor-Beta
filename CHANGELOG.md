@@ -75,6 +75,8 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Snake Cult Armsmen wear lighter armour.** Their Serpent Breastplate over Chainmail drops from 52 to 42 body armour and from 15 to 13 leg armour, which fits a new cult recruit. It also costs 1,900 instead of 4,627. Armour you already own changes too. From a community change set. **Access:** take it as loot from Snake Cult Armsmen, or buy it on the rare occasions a shop has it.
 
+- **The tweak guns are a little weaker (Tweak 18f).** The Matchlock Musket, Blunderbuss and Flintlock Pistol now aim a bit less precisely and deal 10% less damage. The pistol reloads a bit slower (80 to 70 speed) and the musket too (50 to 45). The pistol keeps its four shots. Rune weapons now hold their own against pistol and horse. Access: buy a gun from a merchant (rare), or unlock Pistols for your Knight Order.
+
 ### Fixes
 
 - **The Troop Trees screen now shows every troop that upgrades.** 33 troops appeared on no page before. Three new pages hold them: **Bandits** (looters, bandits and the kingdom deserters), **Minor Factions** (the Vanskerry, Jatu, Mystmountain and Veccavi lines) and **Commoners** (farmers, refugees, militia recruits, the caravan master and the village recruits). Trees already shown on another page are not repeated; click a troop to see what it upgrades into. The upgrade button on one of these troops in the Party screen now opens its page too. **Access:** Reports → Troop trees, pick a page from the list at the top.
