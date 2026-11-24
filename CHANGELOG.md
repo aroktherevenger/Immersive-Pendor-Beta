@@ -124,9 +124,9 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Your character calls out battle orders again.** As before 0.500: hold, follow me, charge, advance, fall back and retreat, plus the infantry / archers / cavalry / everyone group calls. A female character has her own lines for the main orders (no group calls). Orders that never had a recorded line stay silent. **Access:** give an order or pick a group in battle.
 
----
-
 - **The merchant names your rescued relative again.** In Chapter 1, after you bring the merchant's family home and agree to help, he said "My March 23, 354 has hardly spoken…" instead of naming his relative. He now says "my brother" (or the right relative for your start town).
+
+---
 
 ## [0.45b] — hotfix
 
