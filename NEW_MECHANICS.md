@@ -112,3 +112,13 @@ Hold **Left Alt** while you walk on foot and you run at 166% of your normal spee
 - Does nothing on horseback, in battles, tournaments, the arena or lairs.
 - Stops while anyone in the scene is hostile to you, for example during a prison break.
 - Your companions don't speed up with you; they catch up when you stop.
+
+## Whistle for your horse (H)
+
+On foot in a battle, press **H** to whistle. Your own horse, the one you rode last, runs to you and follows you until it reaches you.
+
+- Works in field battles, sieges, village fights and bandit lairs.
+- The horse must be alive and riderless. If not, a message tells you why: "Your horse is dead.", "Your horse has a rider." or "You came on foot."
+- The first time you end up on foot in a battle, a reminder says "Press H to whistle for your horse."
+- You can whistle once every 5 seconds. If the horse can't reach you within 30 seconds, it stops.
+- Ctrl+H still does what it did before.
