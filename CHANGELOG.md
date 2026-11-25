@@ -83,6 +83,8 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Main story, Chapter 2 uses plain words.** Rare old words are gone: the "tally" is now a ledger, the coin has letters around its edge instead of its "rim", and the camp is a camp instead of a "stockade". The story and choices are the same. **Access:** Chapter 2 of the main story.
 
+- **Main story: one quest, and no more waiting between chapters.** Chapters 1 to 4 are now a single journal quest, "The Merchant's Debt", from the merchant's first request to the end of Chapter 4. Its journal note always says what to do next. The three-day and one-day waits described above are gone: the merchant tells you about the guards' camp in the same talk that ends Chapter 1, his courier is waiting for you in Sarleon when Chapter 2 ends, the merchant's kin knows where the counting house is as soon as you tell them, and in Chapter 4 the Inquisition rides at once. Start a new game for the story: a campaign already in the story keeps its old quests. **Access:** Journal → Quests → "The Merchant's Debt", from your first talk with your start town's merchant.
+
 ### Fixes
 
 - **The Troop Trees screen now shows every troop that upgrades.** 33 troops appeared on no page before. Three new pages hold them: **Bandits** (looters, bandits and the kingdom deserters), **Minor Factions** (the Vanskerry, Jatu, Mystmountain and Veccavi lines) and **Commoners** (farmers, refugees, militia recruits, the caravan master and the village recruits). Trees already shown on another page are not repeated; click a troop to see what it upgrades into. The upgrade button on one of these troops in the Party screen now opens its page too. **Access:** Reports → Troop trees, pick a page from the list at the top.
