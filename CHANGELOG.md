@@ -132,7 +132,7 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Rune plates and four more armours now count as armour for companions.** The 28 rune plates from The Complete Arsenal of Al-Aziz and the Kraken Plate, Black Brigandine, Dark Mail and Plate and Black Mail and Plate had no stored armour values, so companions picking up loot treated them as no armour at all. They now use the values you see on the item. New games only. **Access:** automatic in a new game; companions auto-looting after a battle.
 
-- **Chapter 2 and Chapter 3 now tell one story about the money.** Chapter 2's tally now says the paymaster only handed on money that came by courier from someone the roll never names, and the gatemen in Marleons and Laria say the same in Chapter 3. So the courier at the farmstead no longer looks like a second payer out of nowhere. **Access:** Main Story Chapter 2, the tally after you break the paymaster's camp; Chapter 3, the night gatemen in Marleons and Laria.
+- **Chapter 2 and Chapter 3 now tell one story about the money.** The paymaster gets away when you break his camp in Chapter 2, and he is the man laid up at the farmstead in Chapter 3. Before, Chapter 3 sent you after a courier who looked like a second payer out of nowhere. **Access:** Main Story Chapter 2, the tally after you break the paymaster's camp; Chapter 3, the night gatemen in Marleons and Laria and the Roadside Farmstead.
 
 ---
 
