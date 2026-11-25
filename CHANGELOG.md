@@ -81,6 +81,8 @@ Features list **Access:** — how to actually reach the content in-game.
 
 - **Food matters again, and Inventory Management cuts it** *(Tweaks 17a, 16c reworked)*. Your party eats once a day again, not once a week: 40 men eat about 14 portions a day. Each level of your own Inventory Management cuts that by a further 10% (about 65% less at level 10). Tracking no longer saves food, and the skill is now just called Tracking. When the food runs out, morale drops and a companion who hates going hungry tells you so, once. No companion ever leaves over it. **Access:** automatic on the world map — buy food in towns and villages; the rule is in the Inventory Management tooltip on the character screen.
 
+- **Main story, Chapter 2 uses plain words.** Rare old words are gone: the "tally" is now a ledger, the coin has letters around its edge instead of its "rim", and the camp is a camp instead of a "stockade". The story and choices are the same. Access: Chapter 2 of the main story.
+
 ### Fixes
 
 - **The Troop Trees screen now shows every troop that upgrades.** 33 troops appeared on no page before. Three new pages hold them: **Bandits** (looters, bandits and the kingdom deserters), **Minor Factions** (the Vanskerry, Jatu, Mystmountain and Veccavi lines) and **Commoners** (farmers, refugees, militia recruits, the caravan master and the village recruits). Trees already shown on another page are not repeated; click a troop to see what it upgrades into. The upgrade button on one of these troops in the Party screen now opens its page too. **Access:** Reports → Troop trees, pick a page from the list at the top.
@@ -135,6 +137,8 @@ Features list **Access:** — how to actually reach the content in-game.
 - **Rune plates and four more armours now count as armour for companions.** The 28 rune plates from The Complete Arsenal of Al-Aziz and the Kraken Plate, Black Brigandine, Dark Mail and Plate and Black Mail and Plate had no stored armour values, so companions picking up loot treated them as no armour at all. They now use the values you see on the item. New games only. **Access:** automatic in a new game; companions auto-looting after a battle.
 
 - **Chapter 2 and Chapter 3 now tell one story about the money.** The paymaster gets away when you break his camp in Chapter 2, and he is the man laid up at the farmstead in Chapter 3. Before, Chapter 3 sent you after a courier who looked like a second payer out of nowhere. **Access:** Main Story Chapter 2, the tally after you break the paymaster's camp; Chapter 3, the night gatemen in Marleons and Laria and the Roadside Farmstead.
+
+- **Enemy commanders fight again.** Since the Formations update, the leader of an organised enemy party (lords' armies, the Heretic Coven, named bandit parties) stood at the side of his line for the whole battle. Now he holds with his troops until the lines meet, then joins in, and turns on you when you come within about 30 m while he still has a quarter of his health. This is vanilla PoP's behaviour. Common bandits are unchanged. Access: field battles against lords and organised parties.
 
 ---
 
