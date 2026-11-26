@@ -105,3 +105,5 @@ Baltic Marauder and lconracl for the Kraken Plate armour (Tweak 18d), and Dare2D
 Llew2 (OSP) for the firearm models, and Dalion for the firearm code (Tweak 18f) and the horse whistle (Tweak 8d).
 
 The Dismemberment Mod Kit for the decapitation effects, sounds and head model, and Davee of the Vikingr mod for the decapitation.
+
+FrozenPainter for the reworked scenes (Hidden Mines of Al-Aziz, D'Shar Raider Lair, Brigand Camp, Snake Cult Shrine, Vanskerry Landing, Yasin and 16 more D'Shar villages), used with permission.
