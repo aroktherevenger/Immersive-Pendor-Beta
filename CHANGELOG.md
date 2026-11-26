@@ -145,6 +145,7 @@ Features list **Access:** — how to actually reach the content in-game.
 - **Enemy commanders fight again.** Since the Formations update, the leader of an organised enemy party (lords' armies, the Heretic Coven, named bandit parties) stood at the side of his line for the whole battle. Now he holds with his troops until the lines meet, then joins in, and turns on you when you come within about 30 m while he still has a quarter of his health. This is vanilla PoP's behaviour. Common bandits are unchanged. **Access:** field battles against lords and organised parties, anywhere in the game.
 
 - **The merchant's relative in the main story keeps one face.** The merchant's sister, brother or son used to have a different face in every new game. They now always look the same. Two noble ladies and a tavernkeeper that had the same flaw now keep one face per playthrough. **Access:** start a new game and meet the merchant's relative in Chapter 1.
+- **The merchant's relative also keeps one hair colour.** The relative could still show up with a different hair colour, no hair, or a slightly different face each time you met them (at the bandit lair, the burned house and the tavern). They now look the same every time, in new games and in games already in progress. **Access:** meet the merchant's relative in Chapter 1 or Chapter 3; an existing save is fixed the next time you open a town menu.
 
 ---
 
