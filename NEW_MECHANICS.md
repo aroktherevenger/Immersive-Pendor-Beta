@@ -62,6 +62,19 @@ On the road, open the Party screen, select her and press Talk. You can look at h
 - Household storage, feasts and outfit changes are only offered at home.
 - Send her home before you remove the mod.
 
+### Marrying a Noldor lady
+
+Before a Noldor lady (Iranith, daughter of Sadren, or Elasai, daughter of Calanon) agrees to marry you, you need all four of these:
+
+1. **Standing with the Noldor of 95 or more.**
+2. **At least one tournament win at Elacrai.** It is held by daylight in the first days of each month, one try a month.
+3. **A Qualis Gem in your own pack.** Her father takes it as the marriage gift when he grants the marriage. Qualis Gems are found in battle and hidden caches, or won at Elacrai.
+4. **Be sworn to a kingdom, or rule one.**
+
+The usual Pendor rules also still apply (for example, the lady must like you enough). Until you have everything, she tells you what is still missing, and her father checks again when you ask him. When he agrees, you choose a dowry of Noldor make: a Masterwork Noldor Runesword, a Superb Noldor Trimmed Ranger Garb or a Masterwork Noldor Composite Bow.
+
+Elacrai only appears on the map once you have befriended the Noldor.
+
 ### A Noldor husband (female characters only)
 
 A woman can marry **Ilaedanir** in Elacrai's hall on the same four terms as a Noldor wife. After the wedding he works like a wife in this section, and he can ask Elacrai for troops. He comes without a weapon: give him one through his equipment option while he rides with you.
