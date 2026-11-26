@@ -107,3 +107,5 @@ Llew2 (OSP) for the firearm models, and Dalion for the firearm code (Tweak 18f) 
 The Dismemberment Mod Kit for the decapitation effects, sounds and head model, and Davee of the Vikingr mod for the decapitation.
 
 FrozenPainter for the reworked scenes (Hidden Mines of Al-Aziz, D'Shar Raider Lair, Brigand Camp, Snake Cult Shrine, Vanskerry Landing, Yasin and 16 more D'Shar villages), used with permission.
+
+Iceqatius for the Slavers Domain scene (OSP), the base of the Jatu slaver lair.
