@@ -102,6 +102,6 @@ The community tweak authors from the Prophesy of Pendor wiki "Tweaks" page: Dali
 
 Baltic Marauder and lconracl for the Kraken Plate armour (Tweak 18d), and Dare2Die for the dark Pendor armours (Tweak 18e).
 
-Llew2 (OSP) for the firearm models, and Dalion for the firearm code (Tweak 18f).
+Llew2 (OSP) for the firearm models, and Dalion for the firearm code (Tweak 18f) and the horse whistle (Tweak 8d).
 
 The Dismemberment Mod Kit for the decapitation effects, sounds and head model, and Davee of the Vikingr mod for the decapitation.
