@@ -7,6 +7,10 @@ Features list **Access:** — how to actually reach the content in-game.
 
 ---
 
+## [0.510]
+
+---
+
 ## [0.500]
 
 **Start a new game — saves from 0.46 and earlier will not load.** 0.500 replaces the planned 0.46 and is a save break: older saves show "Incomp. Mod. Ver.!" on the Load screen. From now on, hotfixes (0.501, 0.502 …) and minor patches (0.510, 0.520 …) keep your 0.500 saves; only the next big release (0.600) breaks saves again. The version shows as v0.5 in the main-menu corner.
